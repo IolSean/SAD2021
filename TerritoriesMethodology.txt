@@ -1,0 +1,24 @@
+Start with a countries map.
+Add territorial waters.
+Break off demilitarized, "no-man's land" areas and unclaimed areas.
+Break off De facto federations (leaving de jure federations).
+Break off unincorporated areas, territories, constituent countries, and other autonomous dependencies.
+Break off regions of states seeking greater autonomy.
+Break off international, territorial dispute areas.
+Break off hybrid state-non state dispute areas.
+Break off transitional areas in active war zones and conflict areas.
+Break off active secessionist movements.
+Note all (up to 5) simultaneous contestors
+To facilitate symbolizing add three dispute regions to allow for differences in boundaries of claims
+Add disputed, uninhabited territorial waters/island(s)
+Note any instances of disputes leading to casualties
+Note any territories that are uninhabited
+Note if any territories have or don't have any international recognition
+Note the document source of the territorial(or water) claim, the name of the military or political movement/party/group most representative in any instance of a dispute, or the governing body currently arbitrating the matter.
+Note who is actually administering the territory
+
+Then for additional fun
+Note the most appropriate demonym for the people in each territory
+Add unique iso-code like abbreviations for every new territory without one
+Color Map the territories by UN member state administering the territory
+Calculate the territory areas using their geometry data in km^2.

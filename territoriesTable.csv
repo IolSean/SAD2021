@@ -1,0 +1,653 @@
+﻿Ctry_Abb,Ctry_NmS,Area_SQKM,UN,ColorMap,Shape_Length,Shape_Area,administeredBy,contestedBy1,contestedBy2,contestedBy3,contestedBy4,contestedBy5,demonym,contestedRegion1,territoryTyp,recognized,inhabited,casulitiesContested,viablyContested,nameContested,contestedRegion2,autonomous,contestedRegion3
+AFG,Afghanistan,584005,1,3,6439543.432,8.56833E+11,Afghanistan,Taliban,Other Islamist Millitants,None,None,None,Afghan,None,1,1,1,1,1,Ongoing War,None,0,None
+ALB,Albania,34834,1,6,1249885.31,61390328903,Albania,None,None,None,None,None,Albanian,None,1,1,1,0,0,None,None,0,None
+DZA,Algeria,1155544,1,3,7373761.749,1.60091E+12,Algeria,None,None,Jama'at Nasr al-Islam wal Muslimin,None,None,Algerian,Insurgency in the Maghreb,1,1,1,1,1,Ongoing Conflict,None,0,None
+PAK,Pakistan,308010,1,4,4381901.327,4.29876E+11,Pakistan,Islamist Militants,None,None,None,None,Pakistani,None,1,1,1,1,0,Ongoing Military Conflict,None,0,None
+IRN,Iran,1311101,1,6,7943945.922,1.85681E+12,Iran,None,None,None,None,None,Iranian,None,1,1,1,0,0,None,None,0,None
+TKM,Turkmenistan,499188,1,1,5603703.279,8.33576E+11,Turkmenistan,None,None,None,None,None,Turkmen,None,1,1,1,0,0,None,None,0,None
+UZB,Uzbekistan,261434,1,5,5365135.082,4.56432E+11,Uzbekistan,None,None,None,None,None,Uzbekistani,None,1,1,1,0,0,None,None,0,None
+KAZ,Kazakhstan,2745683,1,8,19763259.86,6.20173E+12,Kazakhstan,None,None,None,None,None,Kazakhstani,None,1,1,1,0,0,None,None,0,None
+AZE,Azerbaijan,67479,1,4,2556567.15,1.17134E+11,Azerbaijan,None,None,None,None,None,Azerbaijani,Azerbaijan,1,1,1,0,0,None,None,0,None
+ARM,Armenia,29646,1,7,1678396.207,51022127588,Armenia,None,None,None,None,None,Armenian,None,1,1,1,0,0,None,None,0,None
+GEO,Georgia,55729,1,5,2349551.41,1.01138E+11,Georgia,None,None,None,None,None,Georgian,None,1,1,1,0,0,None,None,0,None
+RUS,Russia,10332710,1,1,137040292.3,5.57513E+13,Russia,None,None,None,None,None,Russian,None,1,1,1,0,0,None,None,0,None
+KGZ,Kyrgyzstan,198981,1,7,4932198.465,3.54833E+11,Kyrgyzstan,None,None,None,None,None,Kyrgyz,None,1,1,1,0,0,None,None,0,None
+TJK,Tajikistan,78292,1,6,3285589.66,1.29384E+11,Takikistan,None,None,None,None,None,Tadzhik,None,1,1,1,0,0,None,None,0,None
+MNG,Mongolia,1567522,1,7,10375439.26,3.35916E+12,Mongolia,None,None,None,None,None,Mongolian,None,1,1,1,0,0,None,None,0,None
+IND,India,3038251,1,5,15814453.99,3.55005E+12,India,Naxalite-Maoist Insurgency,None,None,None,None,Indian,None,1,1,1,1,0,Ongoing Military Conflict,None,0,None
+BGD,Bangladesh,126665,1,6,3386003.804,1.52386E+11,Bangladesh,None,None,None,None,None,Bangladeshi,None,1,1,1,0,0,None,None,0,None
+NPL,Nepal,104348,1,1,2234490.759,1.35977E+11,Nepal,None,None,None,None,None,Nepalese,None,1,1,1,0,0,None,None,0,None
+BTN,Bhutan,38792,1,7,1060429.996,49406910919,Bhutan,None,None,None,None,None,Bhutanese,None,1,1,1,0,0,None,None,0,None
+NAZ,Naga Self-Adminestered Zone,257715,0,8,3727313.273,2.96172E+11,Myanmar,None,None,None,None,None,Nagas,Myanmar Self-Administered Zones,2,4,1,0,0,None,None,1,None
+LKA,Sri Lanka,52621,1,7,1252451.241,53798016601,Sri Lanka,None,None,None,None,None,Sri lankan,None,1,1,1,0,0,None,None,0,None
+LAO,Laos,230299,1,1,4451204.749,2.57829E+11,Laos,None,None,None,None,None,Laotian,None,1,1,1,0,0,None,None,0,None
+VNM,Vietnam,327491,1,3,6292612.341,3.63658E+11,Vietnam,None,None,None,None,None,Vietnamese,None,1,1,1,0,0,None,None,0,None
+PRK,"Korea, North",150107,1,3,3143494.739,2.56746E+11,"Korea, North",South Korea,None,None,None,None,North Korean,Korea,1,1,1,1,1,Ongoing War,None,1,None
+CHN,China (PRC),5502895,1,2,26573497.73,8.30304E+12,China (PRC),China (ROC),None,None,None,None,Chinese,None,1,1,1,1,1,One China Policy,None,0,China
+KOR,"Korea, South",174415,1,5,2866759.323,2.67449E+11,"Korea, South",North Korea,None,None,None,None,South Korean,Korea,1,1,1,1,1,Ongoing War,None,0,None
+TWN,China (ROC),87625,0,8,1517539.281,1.04831E+11,Taiwan,China (PRC),None,None,None,None,Taiwanese,None,1,3,1,1,1,One China Policy,None,0,China
+JPN,Japan,585353,1,6,11302073.32,8.75926E+11,Japan,None,None,None,None,None,Japanese,None,1,1,1,0,0,None,None,0,None
+KHM,Cambodia,201386,1,5,2988331.1,2.12623E+11,Cambodia,None,None,None,None,None,Cambodian,None,1,1,1,0,0,None,None,0,None
+THA,Thailand,592502,1,4,6402343.064,6.38262E+11,Thailand,None,None,None,None,None,Thai,None,1,1,1,0,0,None,None,0,None
+UKR,Ukraine,540391,1,7,7461952.244,1.26305E+12,Ukraine,None,None,None,None,None,Ukrainian,None,1,1,1,0,0,None,None,0,None
+BLR,Belarus,207470,1,4,3987416.658,5.86963E+11,Belarus,None,None,None,None,None,Belarusian,None,1,1,1,0,0,None,None,0,None
+EST,Estonia,70953,1,6,2470724.521,2.62239E+11,Estonia,None,None,None,None,None,Estonian,None,1,1,1,0,0,None,None,0,None
+LVA,Latvia,76505,1,3,2719193.296,2.56364E+11,Latvia,None,None,None,None,None,Latvian,None,1,1,1,0,0,None,None,0,None
+LTU,Lithuania,52877,1,2,3085755.698,1.62472E+11,Lithuania,None,None,None,None,None,Lithuanian,None,1,1,1,0,0,None,None,0,None
+MDA,Moldova,28517,1,3,2562343.554,61890657823,Moldova,None,None,None,None,None,Moldovan,None,1,1,1,0,0,None,None,0,None
+TUR,Turkey,695672,1,2,6629505.506,1.16278E+12,Turkey,None,None,None,None,None,Turkish,None,1,1,1,0,0,None,None,0,None
+SYR,Syria,127576,1,8,2291688.306,1.88207E+11,Syria,Islamic State of Iraq and the Levant,None,None,None,None,Syrian,ISIL Insurgency,1,1,1,0,1,Ongoing War,None,0,None
+IRQ,Iraq,388036,1,1,3783803.351,5.49766E+11,Iraq,Islamic State of Iraq and the Levant,None,None,None,None,Iraqi,ISIL Insurgency,1,1,1,1,1,Ongoing War,None,0,None
+KWT,Kuwait,24542,1,7,789606.2263,32392883145,Kuwait,None,None,None,None,None,Kuwaiti,None,1,1,1,0,0,None,None,0,None
+LBN,Lebanon,14876,1,2,773454.4058,21663693701,Lebanon,None,None,None,None,None,Lebanese,None,1,1,1,0,0,None,None,0,None
+ISR,Israel,24684,1,6,1425486.762,34084960114,Israel,Palestine,None,None,None,None,Israeli,None,1,1,1,1,1,Ongoing Conflict,None,0,None
+JOR,Jordan,89320,1,5,1966734.732,1.22669E+11,Jordan,None,None,None,None,None,Jordanian,None,1,1,1,0,0,None,None,0,None
+QAT,Qatar,22712,1,4,1008003.343,27951971757,Qatar,None,None,None,None,None,Qatari,None,1,1,1,0,0,None,None,0,None
+BHR,Bahrain,5808,1,8,368521.7422,7233247488,Bahrain,None,None,None,None,None,Bahraini,None,1,1,1,0,0,None,None,0,None
+ARE,United Arab Emirates,104256,1,8,2248287.002,1.25856E+11,United Arab Emirates,None,None,None,None,None,Emirian,None,1,1,1,0,0,None,None,0,None
+OMN,Oman,359885,1,7,3799493.948,4.13696E+11,Oman,None,None,None,None,None,Omani,None,1,1,1,0,0,None,None,0,None
+YEM,Yemen,410693,1,2,6010362.683,4.46434E+11,Yemen,Houthi North Yemen,None,None,None,None,Yemeni,None,1,1,1,1,1,Ongoing War,None,0,None
+SAU,Saudi Arabia,2045772,1,3,7615803.052,2.47536E+12,Saudi Arabia,None,None,None,None,None,Saudi Arabian,None,1,1,1,0,0,None,None,0,None
+SWE,Sweden,503172,1,4,10801072.88,2.41596E+12,Sweden,None,None,None,None,None,Swedish,None,1,1,1,0,0,None,None,0,None
+FIN,Finland,377809,1,7,8752996.357,2.01862E+12,Finland,None,None,None,None,None,Finnish,None,1,1,1,0,0,None,None,0,None
+NOR,Norway,477054,0,2,12877428.72,2.71858E+12,Norway,None,None,None,None,None,Norwegian,None,1,1,1,0,0,None,None,0,None
+ISL,Iceland,178365,1,8,4479311.185,9.98764E+11,Iceland,None,None,None,None,None,Icelander,None,1,1,1,0,0,None,None,0,None
+MYS,Malaysia,180000,1,6,2504021.732,1.82187E+11,Malaysia,None,None,None,None,None,Malaysian,None,1,1,1,0,0,None,None,0,None
+SGP,Singapore,1399,1,5,165686.6654,1409206335,Singapore,None,None,None,None,None,Singaporean,None,1,1,1,0,0,None,None,0,None
+BRN,Brunei,6922,1,2,635639.5106,7012588495,Brunei,None,None,None,None,None,Bruneian,None,1,1,1,0,0,None,None,0,None
+ROU,Romania,142220,1,6,3478222.124,2.88516E+11,Romania,None,None,None,None,None,Romanian,None,1,1,1,0,0,None,None,0,None
+BGR,Bulgaria,117213,1,8,2551948.937,2.17625E+11,Bulgaria,None,None,None,None,None,Bulgarian,None,1,1,1,0,0,None,None,0,None
+MKD,North Macedonia,25262,1,3,958223.5576,45217683896,North Macedonia,None,None,None,None,None,Macedonian,None,1,1,1,0,0,None,None,0,None
+XKX,Kosovo,10013,0,1,790444.4319,18451130612,Kosovo,Republic of Kosovo,Albania,None,None,None,Kosovar,None,4,3,1,0,1,51% UN State Recognition,None,1,None
+GRC,Greece,200998,1,5,7553568.966,3.29913E+11,Greece,None,None,None,None,None,Greek,None,1,1,1,0,0,None,None,0,None
+CYP,Cyprus,11582,1,2,897415.5985,17253190651,Cyprus,None,None,None,None,None,Cypriot,None,1,1,1,0,0,None,None,0,None
+POL,Poland,293864,1,5,5475437.341,7.85009E+11,Poland,None,None,None,None,None,Polish,None,1,1,1,0,0,None,None,0,None
+SVK,Slovakia,41232,1,6,1879547.787,94990720633,Slovakia,None,None,None,None,None,Slovakian,None,1,1,1,0,0,None,None,0,None
+HUN,Hungary,93269,1,4,2313322.192,2.01684E+11,Hungary,None,None,None,None,None,Hungarian,None,1,1,1,0,0,None,None,0,None
+SRB,Serbia,51486,1,7,1916617.013,98922346525,Serbia,None,None,None,None,None,Seriban,None,1,1,1,0,0,None,None,0,None
+MNE,Montenegro,16174,1,2,1014935.149,29946562991,Montenegro,None,None,None,None,None,Montenegrin,None,1,1,1,0,0,None,None,0,None
+HRV,Croatia,87782,1,3,3626467.289,1.72926E+11,Croatia,None,None,None,None,None,Croatian,None,1,1,1,0,0,None,None,0,None
+BIH,Bosnia and Herzegovina,26161,1,8,2090624.679,50742126222,Bosnia and Herzegovina,None,None,None,None,None,Bosnian and herzegovinian,None,1,1,1,0,0,None,None,0,None
+CZE,Czechia,56693,1,3,2765194.317,1.3647E+11,Czechia,None,None,None,None,None,Czech,None,1,1,1,0,0,None,None,0,None
+AUT,Austria,83833,1,1,3110886.727,1.84215E+11,Austria,None,None,None,None,None,Austrian,None,1,1,1,0,0,None,None,0,None
+SVN,Slovenia,20491,1,2,1352452.809,42634341226,Slovenia,None,None,None,None,None,Slovenian,None,1,1,1,0,0,None,None,0,None
+LIE,Liechtenstein,181,1,2,99223.62934,391733878,Liechtenstein,None,None,None,None,None,Liechtensteiner,None,1,1,1,0,0,None,None,0,None
+CHE,Switzerland,39980,1,7,2434606.863,85232253171,Switzerland,None,None,None,None,None,Swiss,None,1,1,1,0,0,None,None,0,None
+PYF,French Polynesia,5680131,0,6,10554865.25,6.3913E+12,France,French Polynesia,None,None,None,None,French Polynesian,France,3,4,1,0,0,Political Party,None,1,None
+ITA,Italy,239221,1,4,3753078.102,4.31482E+11,Italy,None,None,None,None,None,Italian,None,1,1,1,0,0,None,None,0,None
+MLT,Malta,4210,1,2,300039.5575,6436858101,Malta,None,None,None,None,None,Maltese,None,1,1,1,0,0,None,None,0,None
+DEU,Germany,286932,1,8,6122796.815,7.47431E+11,Germany,None,None,None,None,None,German,None,1,1,1,0,0,None,None,0,None
+NLD,Netherlands,39133,0,7,1991292.611,93325632301,Netherlands,None,None,None,None,None,Dutch,None,1,1,1,0,0,None,None,0,None
+LUX,Luxembourg,2613,1,1,413800.3204,6261020150,Luxembourg,None,None,None,None,None,Luxembourger,None,1,1,1,0,0,None,None,0,None
+WBL,Wallonia,15834,0,4,1201450.265,38768754518,Belgium,Walloon Republic,None,None,None,None,Walloons,None,4,4,1,0,1,Walloon Rally,None,0,None
+DNK,Denmark,82338,1,6,3030998.048,2.63496E+11,Denmark,None,None,None,None,None,Danish,None,1,1,1,0,0,None,None,0,None
+AND,Andorra,463,1,8,151453.5452,853767811.9,Andorra,Occitania,None,None,None,None,Andorran,None,1,1,1,0,0,None,None,0,None
+IRL,Ireland,108772,1,1,3186626.684,3.02575E+11,Ireland,None,None,None,None,None,Irish,None,1,1,1,0,0,None,None,0,None
+PRT,Portugal,114523,1,4,2406788.347,1.92846E+11,Portugal,None,None,None,None,None,Portuguese,None,1,1,1,0,0,None,None,0,None
+EGY,Egypt,978321,1,1,4946031.478,1.22903E+12,Egypt,None,None,None,None,None,Egyptian,None,1,1,1,0,0,None,None,0,None
+LBY,Libya,1419933,1,7,6972482.029,1.80961E+12,Libya,Libyan Civil War,None,Jama'at Nasr al-Islam wal Muslimin,None,None,Libyan,Insurgency in the Maghreb,1,1,1,1,1,Ongoing War,None,0,None
+TUN,Tunisia,190135,1,1,2907162.89,2.80135E+11,Tunisia,None,None,Jama'at Nasr al-Islam wal Muslimin,None,None,Tunisian,Insurgency in the Maghreb,1,1,1,1,1,Ongoing Conflict,None,0,None
+SDN,Sudan,1356877,1,2,6618193.924,1.49239E+12,Sudan,None,None,None,None,None,Sudanese,None,1,1,1,0,0,None,None,0,None
+AZW,Azawad,820593,0,4,4349016.258,9.27558E+11,Mali,Azawad,Tamazgha,Jama'at Nasr al-Islam wal Muslimin,None,None,Berber,Berberism,4,4,1,1,1,Ongoing War,None,0,Insurgency in the Maghreb
+TCD,Chad,1269284,1,8,5956572.142,1.38051E+12,Chad,Boko Haram,FACT/ CCMSR Insurgency,Jama'at Nasr al-Islam wal Muslimin,None,None,Chadian,Insurgency in the Maghreb,1,1,1,1,1,Ongoing War,None,0,None
+AGZ,Berber,684365,0,1,3952395.368,7.72779E+11,Niger,Agadez,Tamazgha,Jama'at Nasr al-Islam wal Muslimin,Boko Haram,None,Nigerian,Berberism,4,4,1,1,1,Ongoing War,None,1,Insurgency in the Maghreb
+NGA,Nigeria,719083,1,6,4609262.291,7.48745E+11,Nigeria,Boko Haram,None,None,None,None,Nigerian,None,1,1,1,1,0,Ongoing Military Conflict,None,0,None
+BEN,Benin,117879,1,5,1997822.446,1.22098E+11,Benin,None,None,None,None,None,Beninese,None,1,1,1,0,0,None,None,0,None
+TGO,Togo,57813,1,7,1724714.355,59512804498,Togo,None,None,None,None,None,Togolese,None,1,1,1,0,0,None,None,0,None
+CIV,Ivory Coast,332642,1,8,3013751.961,3.40903E+11,Ivory Coast,None,None,None,None,None,Ivorian,None,1,1,1,0,0,None,None,0,None
+GHA,Ghana,220825,1,3,2835192.877,2.26592E+11,Ghana,None,None,None,None,None,Ghanaian,None,1,1,1,0,0,None,None,0,None
+BFA,Burkina Faso,271995,1,2,3137251.361,2.86749E+11,Burkina Faso,None,None,Jama'at Nasr al-Islam wal Muslimin,None,None,Burkinabe,Insurgency in the Maghreb,1,1,1,1,1,Ongoing War,None,0,None
+MAR,Morocco,440670,1,5,4744403.219,6.12667E+11,Morocco,None,None,None,None,None,Moroccan,None,1,1,1,0,0,None,None,0,None
+MRT,Mauritania,1050206,1,1,5735128.391,1.20314E+12,Mauritania,None,None,None,None,None,Mauritanian,Berber,1,1,1,0,0,None,None,0,None
+GIN,Guinea,255431,1,6,3435016.647,2.65844E+11,Guinea,None,None,None,None,None,Guinean,None,1,1,1,0,0,None,None,0,None
+SEN,Senegal,178751,1,8,2198603.892,1.92085E+11,Senegal,None,None,None,None,None,Senegalese,None,1,1,1,0,0,None,None,0,None
+GMB,"Gambia, The",12917,1,1,898267.5441,13736624003,"Gambia, The",None,None,None,None,None,Gambian,None,1,1,1,0,0,None,None,0,None
+GNB,Guinea-Bissau,53036,1,2,1102743.164,55695251708,Guinea-Bissau,None,None,None,None,None,Guinea-Bissauan,None,1,1,1,0,0,None,None,0,None
+LBR,Liberia,108704,1,5,1663171.932,1.10799E+11,Liberia,None,None,None,None,None,Liberian,None,1,1,1,0,0,None,None,0,None
+SLE,Sierra Leone,83303,1,3,1336721.662,85709514441,Sierra Leone,None,None,None,None,None,Sierra Leonean,None,1,1,1,0,0,None,None,0,None
+COD,Congo (DRC),1177592,1,4,7850950.108,1.1905E+12,Congo (DRC),None,Allied Democratic Forces Insurgency,Lord's Resistance Army Insurgency,None,None,Congolese,None,1,1,1,0,0,Ongoing War,None,0,None
+CMR,Cameroon,429219,1,7,4309123.619,4.37176E+11,Cameroon,Boko Haram,None,None,None,None,Cameroonian,None,1,1,1,1,0,Ongoing Military Conflict,None,0,None
+GNQ,Equatorial Guinea,29566,1,8,793005.5593,29788246289,Equatorial Guinea,None,None,None,None,None,Equatoguinean,None,1,1,1,0,0,None,None,0,None
+GAB,Gabon,282636,1,1,2837468.557,2.84741E+11,Gabon,None,None,None,None,None,Gabonese,None,1,1,1,0,0,None,None,0,None
+CAF,Central African Republic,417888,1,3,4725015.313,4.25093E+11,Central African Republic,None,Lord's Resistance Army Insurgency,None,None,None,Central African,None,1,1,1,1,1,Ongoing Conflict,None,0,None
+SSD,"Sudan, South",623864,1,8,4832588.913,6.38996E+11,"Sudan, South",Continued Ethnic Violence,None,None,None,None,South Sudanese,None,1,1,1,1,0,None,None,0,None
+ERI,Eritrea,159987,1,8,2673568.644,1.73206E+11,Eritrea,None,None,None,None,None,Eritrean,None,1,1,1,0,0,None,None,0,None
+DJI,Djibouti,26661,1,1,743220.2288,27995678997,Djibouti,None,None,None,None,None,Dijiboutian,None,1,1,1,0,0,None,None,0,None
+ORM,Oromia,326823,0,4,5796780.605,3.34984E+11,Ethiopia,Oromia,None,None,None,None,Oromo,None,4,4,1,1,1,Ongoing War,None,1,None
+SOM,Somalia,433554,1,7,3450766.393,4.39044E+11,Somalia,Alshabab,None,None,None,None,Somali,Somali Peoples,1,1,1,1,1,Ongoing War,None,0,None
+KEN,Kenya,496982,1,1,4010916.518,5.01055E+11,Kenya,None,None,None,None,None,Kenyan,None,1,1,1,0,0,None,None,0,None
+UGA,Uganda,241417,1,7,2394381.962,2.43306E+11,Uganda,None,Allied Democratic Forces Insurgency,None,None,None,Ugandian,None,1,1,1,1,0,Ongoing War,None,0,None
+TZA,Tanzania,942769,1,6,4469277.03,9.62211E+11,Tanzania,None,None,None,None,None,Tanzanian,None,1,1,1,0,0,None,None,0,None
+RWA,Rwanda,19293,1,2,725793.3983,19446788451,Rwanda,None,None,None,None,None,Rwandan,None,1,1,1,0,0,None,None,0,None
+BDI,Burundi,27083,1,3,856624.2531,27359644612,Burundi,None,None,None,None,None,Brundian,None,1,1,1,0,0,None,None,0,None
+COG,Congo,323510,1,8,3979318.288,3.2623E+11,Congo,None,None,None,None,None,Congolese,None,1,1,1,0,0,None,None,0,None
+SWZ,Swaziland,17519,1,1,610901.967,21987558861,Swaziland,None,None,None,None,None,Emaswati,None,1,1,1,0,0,None,None,0,None
+ZAF,South Africa,973903,1,7,8267914.967,1.26297E+12,South Africa,None,None,None,None,None,South African,None,1,1,1,0,0,None,None,0,None
+LSO,Lesotho,30437,1,8,885034.6712,40384077248,Lesotho,None,None,None,None,None,Basotho,None,1,1,1,0,0,None,None,0,None
+MWI,Malawi,100239,1,2,2864612.085,1.06788E+11,Malawi,None,None,None,None,None,Malawian,None,1,1,1,0,0,None,None,0,None
+MOZ,Mozambique,764822,1,8,7123092.562,8.54291E+11,Mozambique,None,None,None,None,None,Mozambican,None,1,1,1,0,0,None,None,0,None
+NAM,Namibia,815920,1,3,4732783.14,9.61694E+11,Namibia,None,None,None,None,None,Namibian,None,1,1,1,0,0,None,None,0,None
+ZWE,Zimbabwe,260200,1,4,2495761.126,2.91591E+11,Zimbabwe,None,None,None,None,None,Zimbabwean,None,1,1,1,0,0,None,None,0,None
+BWA,Botswana,578631,1,2,3918115.416,6.7909E+11,Botswana,None,None,None,None,None,Botswanian,None,1,1,1,0,0,None,None,0,None
+AGO,Angola,694970,1,1,4428713.524,7.32377E+11,Angola,None,None,None,None,None,Angolan,None,1,1,1,0,0,None,None,0,None
+BTS,Barotseland,429445,0,5,3021673.616,4.62447E+11,Zambia,Barotseland,None,None,None,None,Zambian,None,4,4,1,0,1,UNPO Member,None,0,None
+ARG,Argentina,1988023,1,8,10075279.44,2.76367E+12,Argentina,None,None,None,None,None,Argentine,None,1,1,1,0,0,None,None,0,None
+BRA,Brazil,7849640,1,6,17213995.74,8.20214E+12,Brazil,None,None,None,None,None,Brazilian,None,1,1,1,0,0,None,None,0,None
+SUR,Suriname,153791,1,3,1837335.954,1.55722E+11,Suriname,None,None,None,None,None,Surinamer,None,1,1,1,0,0,None,None,0,None
+GYW,West of Essequibo River,152621,0,4,2321687.435,1.55033E+11,Guyana,Venezuela,None,None,None,None,Guyanese,None,6,4,1,0,1,2018 ICJ ruling,None,0,None
+VEN,Venezuela,1033302,1,7,6553652.107,1.06122E+12,Venezuela,FARC Dissidents,Sinaloa Cartel,Colombia,None,None,Venezuelan,None,1,1,1,1,0,Ongoing Military Conflict,None,0,None
+COL,Colombia,1211352,1,8,6987217.319,1.23025E+12,Colombia,FARC Dissidents,Sinaloa Cartel,Venezuela,None,None,Colombian,None,1,1,1,1,0,Ongoing Military Conflict,None,0,None
+ECU,Ecuador,362820,1,5,3748088.875,3.65633E+11,Ecuador,None,None,None,None,None,Ecuadorean,None,1,1,1,0,0,None,None,0,None
+PER,Peru,1405706,1,1,7333539.108,1.4616E+12,Peru,Shining Path,None,None,None,None,Peruvian,None,1,1,1,1,0,Ongoing Military Conflict,None,0,None
+BOL,Bolivia,720570,1,2,5215905.797,7.90874E+11,Bolivia,None,None,None,None,None,Bolivian,None,1,1,1,0,0,None,None,0,None
+PRY,Paraguay,399054,1,7,3555768.125,4.75509E+11,Paraguay,FARC Splinter Groups,None,None,None,None,Paraguayan,None,1,1,1,1,0,Ongoing Military Conflict,None,0,None
+URY,Uruguay,200720,1,4,2388989.891,2.86619E+11,Uruguay,None,None,None,None,None,Uruguayan,None,1,1,1,0,0,None,None,0,None
+CPT,Chilean Patagonia,490720,0,3,7978800.153,1.1498E+12,Chile,Patagonia,None,None,None,None,Patagonian,Mapuche Secessionist,8,4,1,0,0,Araucania Historic Region,None,0,None
+NUN,Nunavut,3306369,0,4,32418043.88,3.75388E+13,Canada,None,None,None,None,None,Nunavummiut,None,3,4,1,0,0,None,None,1,None
+PAN,Panama,111168,1,6,3584989.045,1.1433E+11,Panama,None,None,None,None,None,Panamanian,None,1,1,1,0,0,None,None,0,None
+CRI,Costa Rica,65223,1,2,1630671.038,67618046845,Costa Rica,None,None,None,None,None,Costa Rican,None,1,1,1,0,0,None,None,0,None
+NIC,Nicaragua,73581,1,5,1742806.306,77662618652,Nicaragua,None,None,None,None,None,Nicaraguan,None,1,1,1,0,0,None,None,0,None
+SLV,El Salvador,25320,1,1,790864.7537,26976267571,El Salvador,None,None,None,None,None,Salvadoran,None,1,1,1,0,0,None,None,0,None
+HND,Honduras,153437,1,4,2765042.829,1.65623E+11,Honduras,None,None,None,None,None,Hondouran,None,1,1,1,0,0,None,None,0,None
+BLZ,Belize,29190,1,7,1094745.067,32239285527,Belize,None,None,None,None,None,Belizean,None,1,1,1,0,0,None,None,0,None
+GTM,Guatemala,114622,1,8,1903124.327,1.24374E+11,Guatemala,None,None,None,None,None,Guatemalan,None,1,1,1,0,0,None,None,0,None
+MEX,Mexico,2118253,1,3,15832075.9,2.57977E+12,Mexico,None,None,None,None,None,Mexican,None,1,1,1,0,0,None,None,0,None
+USA,United States,6665692,0,5,24013415.02,9.32357E+12,United States,None,None,None,None,None,American,None,1,1,1,0,0,None,None,0,None
+ESP,Spain,212837,1,7,4368067.455,3.65589E+11,Spain,Castille,None,None,None,None,Spanish,None,1,1,1,0,0,None,None,0,None
+DOM,Dominican Republic,122412,1,4,1605524.978,1.38197E+11,Dominican Republic,None,None,None,None,None,Dominican,None,1,1,1,0,0,None,None,0,None
+HTI,Haiti,47671,1,1,1359555.648,53575157275,Haiti,None,None,None,None,None,Hatian,None,1,1,1,0,0,None,None,0,None
+JAM,Jamaica,51045,1,4,928629.2877,56578153022,Jamaica,None,None,None,None,None,Jamacian,None,1,1,1,0,0,None,None,0,None
+CUB,Cuba,232316,1,6,2893080.044,2.70309E+11,Cuba,None,None,None,None,None,Cuban,None,1,1,1,0,0,None,None,0,None
+BHS,Bahamas,301316,1,5,2702621.305,3.62245E+11,Bahamas,None,None,None,None,None,Bahamian,None,1,1,1,0,0,None,None,0,None
+KNA,Saint Kitts and Nevis,2077,1,5,190819.9208,2292299152,Saint Kitts and Nevis,None,None,None,None,None,Kittian and Nevisian,None,1,1,1,0,0,None,None,0,None
+ATG,Antigua and Barbuda,4434,1,2,354133.8038,4879091869,Antigua and Barbuda,None,None,None,None,None,Antiguan and Barbudans,None,1,1,1,0,0,None,None,0,None
+DMA,Dominica,4627,1,2,263959.3189,5007791209,Dominica,None,None,None,None,None,Dominican,None,1,1,1,0,0,None,None,0,None
+LCA,Saint Lucia,4436,1,1,250590.6384,4735553959,Saint Lucia,None,None,None,None,None,Saint Lucian,None,1,1,1,0,0,None,None,0,None
+VCT,Saint Vincent and the Grenadines,6493,1,6,346118.562,6882485827,Saint Vincent and the Grenadines,None,None,None,None,None,Vinentian,None,1,1,1,0,0,None,None,0,None
+GRD,Grenada,4932,1,5,293125.1833,5193419138,Grenada,None,None,None,None,None,Grenadian,None,1,1,1,0,0,None,None,0,None
+BRB,Barbados,3939,1,1,235727.2626,4180121547,Barbados,None,None,None,None,None,Barbadian,None,1,1,1,0,0,None,None,0,None
+TTO,Trinidad and Tobago,21256,1,1,721151.7238,22148035967,Trinidad and Tobago,None,None,None,None,None,Trinidadian and Tobagonian,None,1,1,1,0,0,None,None,0,None
+CPV,Cape Verde,63477,1,5,1182842.328,69082217239,Cape Verde,None,None,None,None,None,Cape Verdian,None,1,1,1,0,0,None,None,0,None
+MDG,Madagascar,720808,1,3,4155204.122,8.15798E+11,Madagascar,None,None,None,None,None,Malagasy,None,1,1,1,0,0,None,None,0,None
+NZL,New Zealand,229362,1,7,7281784.163,4.00688E+11,New Zealand,None,None,None,None,None,Kiwi,None,1,1,1,0,0,None,None,0,None
+KIR,Kiribati,4242960,1,4,15329131.49,4.29777E+12,Kiribati,None,None,None,None,None,I-Kiribati,None,1,1,1,0,0,None,None,0,None
+MHL,Marshall Islands,2366632,1,5,6477804.669,2.5193E+12,Marshall Islands,None,None,None,None,None,Marshallese,None,1,1,1,0,0,None,None,0,None
+SBL,Solomon Islands,1855181,1,7,6635457.066,1.9165E+12,Solomon Islands,None,None,None,None,None,Solomon Islander,None,1,1,1,0,0,None,None,0,None
+PLW,Palau,712321,1,1,4399595.427,7.22367E+11,Palau,None,None,None,None,None,Palauan,None,1,1,1,0,0,None,None,0,None
+NRU,Nauru,283922,1,2,2175843.434,2.86181E+11,Nauru,None,None,None,None,None,Nauruan,None,1,1,1,0,0,None,None,0,None
+FSM,Micronesia,2865731,1,2,8885765.313,2.92774E+12,Micronesia,None,None,None,None,None,Micronesian,None,1,1,1,0,0,None,None,0,None
+VUT,Vanatu,1079762,1,5,6161626.583,1.17921E+12,Vanatu,None,None,None,None,None,Ni-Vanuatu,None,1,1,1,0,0,None,None,0,None
+TUV,Tuvalu,719038,1,3,5137915.703,7.35894E+11,Tuvalu,None,None,None,None,None,Tuvaluan,None,1,1,1,0,0,None,None,0,None
+FJI,Fiji,1102497,1,8,7865055.755,1.24347E+12,Fiji,None,None,None,None,None,Fijian,None,1,1,1,0,0,None,None,0,None
+WSM,Samoa,226755,1,8,1953986.922,2.39445E+11,Samoa,None,None,None,None,None,Samoan,None,1,1,1,0,0,None,None,0,None
+TON,Tonga,520832,1,1,3375395.921,5.94568E+11,Tonga,None,None,None,None,None,Tongan,None,1,1,1,0,0,None,None,0,None
+PNG,Papua New Guinea,2795301,1,8,10896964.47,2.83914E+12,Papua New Guinea,None,None,None,None,None,Papua New Guinean,None,1,1,1,0,0,None,None,0,None
+IDN,Indonesia,3717718,1,1,13123787.49,3.76545E+12,Indonesia,None,None,None,None,None,Indonesian,None,1,1,1,0,0,None,None,0,None
+TLS,East Timor,29059,1,2,1022661.063,29945148560,East Timor,None,None,None,None,None,East Timorese,None,1,1,1,0,0,None,None,0,None
+PHL,Philippines,922828,1,7,8940751.461,9.67231E+11,Philippines,Philippine Drug War,Communist Rebels,None,None,None,Filipino,None,1,1,1,1,0,Ongoing Military Conflict,None,0,None
+AUS,Australia,4142804,1,4,15264221.81,5.37492E+12,Australia,Indigenous Australians,Emus,None,None,None,Australian,Indigenous Social Injustice,1,1,1,0,0,"Murrawarri Republic, Others",None,0,None
+MDV,Maldives,117841,1,4,1959054.198,1.19234E+11,Maldives,None,None,None,None,None,Maldivan,None,1,1,1,0,0,None,None,0,None
+COM,Comoros,24570,1,7,919882.5041,25848669614,Comoros,None,None,None,None,None,Comoran,None,1,1,1,0,0,None,None,0,None
+MUS,Mauritius,16971,1,7,892446.5892,18834320759,Mauritius,None,None,None,None,None,Mauritian,None,1,1,1,0,0,None,None,0,None
+SYC,Seychelles,52134,1,6,2745106.219,53370176936,Seychelles,None,None,None,None,None,Seychelois,None,1,1,1,0,0,None,None,0,None
+SMR,San Marino,61,1,4,51168.10667,118408782.2,San Marino,None,None,None,None,None,San Marinese,None,1,1,1,0,0,None,None,0,None
+VAT,Vatican City,0,0,1,4709.70461,894727.7693,Vatican City,None,None,None,None,None,Papal Peoples',None,1,1,1,0,0,None,None,0,None
+MCO,Monaco,80,1,5,80026.03111,153644786.7,Monaco,None,None,None,None,None,Monacan,None,1,1,1,0,0,None,None,0,None
+STP,Sao Tome and Principe,9514,1,2,396758.0892,9579282540,Sao Tome and Principe,None,None,None,None,None,Sao Tomean,None,1,1,1,0,0,None,None,0,None
+ACI,Ashmore and Cartier Islands,5047,0,4,369966.2449,5321312310,Australia,Indonesia,None,None,None,None,None,Traditional Fishing or EEZ,7,4,0,0,0,Unratified 1974 MOU Box,None,0,None
+ACT,Australian Capital Territory,2433,0,4,313901.6204,3677856016,Australia,None,None,None,None,None,Canberran,None,2,4,1,0,0,None,None,1,None
+ANT,Australian Northern Territory,1505861,0,4,5851968.854,1.6984E+12,Australia,None,None,None,None,None,Northern Territorian,None,2,4,1,0,0,None,None,1,None
+WAT,Western Australia,2817999,0,4,9578033.892,3.4934E+12,Australia,Western Australian Secessionists,None,None,None,None,Western Australian,Inane Particularists,2,4,1,0,0,WAxit Party,None,0,None
+TAS,Tasmania,123346,0,4,2596995.322,2.21954E+11,Australia,Tasmanian Secessionist,None,None,None,None,Tasmanian,Inaine Particularists,2,4,1,0,0,First Party of Tasmania,None,0,None
+CXR,Christmas Island,3177,0,4,209041.4049,3306569278,Australia,None,None,None,None,None,Christmas Islander,None,2,4,1,0,0,None,None,1,None
+CCK,Cocos (Keeling) Islands,3928,0,4,252683.8855,4132031668,Australia,None,None,None,None,None,Cocossian,None,2,4,1,0,0,None,None,1,None
+CSI,Coral Sea Islands Territory,83257,0,4,4495890.42,94407844422,Australia,None,None,None,None,None,None,None,2,4,0,0,0,None,None,1,None
+HMD,Heard Island and McDonald Islands,7072,1,4,646163.7214,19540472217,Australia,None,None,None,None,None,None,None,2,4,0,0,0,None,None,1,None
+JBT,Jervis Bay Territory,82,0,4,62556.92802,123310281.2,Australia,None,None,None,None,None,The People of Jervis Bay Territory,None,2,4,1,0,0,None,None,1,None
+NFK,Norfolk Island,2596,1,4,211405.8171,3409994786,Australia,Norfolk Island,New Zealand,None,None,None,Norfolk Islander,Particularists,2,4,1,0,0,Norfolk Island People for Democracy,None,0,None
+TSI,Torres Strait Islands,31775,0,4,1397330.83,32979292674,Australia,Torres Strait Regional Authority,None,None,None,None,Torres Strait Islanders,Indigenous Social Injustice,2,4,1,0,0,Community Services Act of 1984,None,0,None
+BAA,Buenos Aires,224,0,8,72772.35301,331777271.3,Argentina,None,None,None,None,None,Porteño,None,2,4,1,0,0,None,None,1,None
+UAS,Agean Sea,147340,0,5,4258354.003,2.36213E+11,Greece,Turkey,None,None,None,None,None,Navigation and EEZ,7,4,0,0,0,Turkey does not recognize UNCLOS,None,0,None
+MAG,Mount Athos,1148,0,5,191775.8686,1972434877,Greece,None,None,None,None,None,Athonite,None,2,4,1,0,0,1927 Constitution of Greece,None,1,None
+KDZ,Korean Demilitarized Zone,1223,0,1,765198.6102,1981015359,None,North Korea,South Korea,United Korea,None,None,None,Korea,6,4,0,1,1,1953 Korean Armistice Agreement,None,0,None
+CBZ,Cyprus Buffer Zone,266,0,2,439189.388,397806477.4,United Nations,Cyprus,North Cyprus,Turkey,None,None,Cypriot,Cyprus,6,4,0,1,1,1974 Turkish Cypriot War,None,0,None
+NCY,North Cyprus,10992,0,2,745474.9181,16593560887,Turkey,Cyprus,North Cyprus,None,None,None,Turkish Cypriot,Turkish Occupation of Cyprus,6,3,1,1,1,De Facto,None,0,None
+ALS,Southeastern Algeria,11565,0,3,1134920.199,14849951093,Algeria,Libya,Tamazgha,Jama'at Nasr al-Islam wal Muslimin,None,None,Algerian,Berberism,6,4,1,1,1,Franco-Libyan Agreement 1956,None,0,Insurgency in the Maghreb
+KAB,Kabylia,6308,0,3,577058.7657,9811893700,Algeria,Kabyles Nationalism,None,None,None,None,Kabyles,Berberism,2,4,1,1,1,UNPO Member,None,1,None
+CPA,Cabinda,9235,0,1,513090.5568,9371607407,Angola,The Republic of Cabinda,None,None,None,None,The people of Cabinda,None,4,4,1,1,1,Ongoing Conflict,None,1,None
+KLT,Lunda Tchokwe,576014,,1,4683048.602,6.11536E+11,Angola,Democratic Republic of Lunda Tchokwe,None,None,None,None,Lunda-Tchokwe People,None,4,4,1,1,1,1894 Treaty bwtween Congo and Portugal,None,0,None
+BPM,Barbuda,3050,0,2,211026.5137,3377060741,Antigua and Brbuda,Barbudan Sepratists,None,None,None,None,Barbudan,None,2,4,1,0,0,1981 Constitution of Antigua and Barbuda,None,1,None
+PAT,Argentine Patagonia,783408,0,8,8740455.769,1.61315E+12,Argentina,Patagonia,None,None,None,None,Patagonian,Mapuche Seccissionist,8,4,1,0,1,De Facto,None,0,None
+FLK,Falkland Islands,46525,0,5,1602273.284,1.21275E+11,United Kingdom,Argentina,Patagonia,None,None,None,Falkland Islander,Las Malvinas,8,4,1,1,1,1816 Argentine Declaration of Independence,Patagonia,1,None
+CHL,Chile,314981,1,3,5520748.417,4.51094E+11,Chile,None,None,None,None,None,Chilean,None,1,1,1,0,0,None,None,0,None
+NAR,Nakhchivan Autonomous Republic,5391,0,4,522837.5212,9015228753,Azerbaijan,None,None,None,None,None,Nakhchivani,Azerbaijan,2,4,1,0,0,None,None,1,None
+BGS,Banga Sena,13481,0,6,576626.9887,15818188983,Bangladesh,Banga Sena,None,None,None,None,Bangladeshi,Bangladeshi Hindu Sepratism,4,4,1,1,0,De Facto,None,0,None
+FBL,Flanders,15148,0,4,1266800.32,38302730395,Belgium,Flanders,None,None,None,None,Flemish,None,4,4,1,0,1,Political Party,None,0,None
+BEL,Belgium,194,1,4,85168.81367,484878403.7,Belgium,None,None,None,None,None,Belgian,None,1,1,1,0,0,None,None,0,None
+GBB,Eastern Belgium,947,0,4,295930.8207,2331264495,Belgium,Eastern Belgium,None,None,None,None,Dutch Belgian,None,4,4,1,0,1,Political Party,None,0,None
+SBZ,Southern Belize,10279,0,7,509755.5822,11259272534,Belize,Guatemala,None,None,None,None,Belizean,Guatemala-Belize Border,6,4,1,1,0,1859 Guatemala-UK Treaty,None,0,None
+SPC,Sapodilla Cayes,2478,0,7,238126.0456,2702037051,Belize,Guatemala,None,None,None,None,Belizean,Guatemala-Belize Border,4,4,1,0,0,1859 Guatemala-UK Treaty,None,0,None
+RSC,Santa Cruz,366784,0,2,3243439.154,4.0468E+11,Bolivia,Republic of Santa Cruz,None,None,None,None,Raizal,None,2,4,1,0,1,Ballot Proposition,None,1,None
+YUK,Yukon,491329,0,4,8678656.966,2.52849E+12,Canada,None,None,None,None,None,Yukoner,None,3,4,1,0,0,None,None,1,None
+NWT,Northwest Territories,1605553,0,4,20935115.34,1.20569E+13,Canada,None,None,None,None,None,Northwest Territorian,None,3,4,1,0,0,None,None,1,None
+CAN,Canada,3904504,1,4,28904821.52,1.12711E+13,Canada,None,None,None,None,None,Canadian,None,1,1,1,0,0,None,None,0,None
+TBS,"Tirpani, Bara Hotii, and Samdu",2786,0,5,631875.4694,3822434520,India,China (PRC),Xizang (Greater Tibet),China (ROC),None,None,Indian,Tibet,6,4,1,1,1,asdfasdfasdfa,None,1,China
+PJK,Pakistani Jammu and Kashmir,11358,0,4,996984.3594,16548474995,Pakistan,Jammu and Kashmir,None,None,India,None,Jammuite and Kashimiris,None,8,4,1,1,1,Ongoing Military Conflict,None,1,Jammu and Kashmir
+GGB,Gilgit-Baltistan,67589,0,4,1774030.941,1.02993E+11,Pakistan,Jammu and Kashmir,India,None,India,None,Jammuite and Kashimiris,Jammu and Kashmir,8,4,1,1,1,Ongoing Military Conflict,None,1,China
+LEH,Leh,50249,0,5,1755209.903,73313430660,India,Jammu and Kashmir,Pakistan,None,None,None,Leh People,Jammu and Kashmir,8,4,1,1,1,Ongoing Military Conflict,Autonomous District of India,1,China
+XNJ,Xinjiang,1583525,0,2,9452073.065,2.82057E+12,China (PRC),East Turkistan,China (ROC),None,None,East Turkistan,Xinjiang People,East Turkistan,2,4,1,1,1,UNPO Member,None,1,China
+TAR,Xizang,1122436,0,2,7648208.312,1.55707E+12,China (PRC),Xizang (Greater Tibet),China (ROC),None,None,None,Tibetan,Tibet,2,4,1,1,1,Multiple,None,1,China
+IMG,Inner Mongolia,1138600,0,2,13180396.02,2.22975E+12,China (PRC),Inner Mongolian,China (RoC),None,None,None,Southern Mongolian,None,2,4,1,0,1,UNPO Member,Mongolia,1,China
+GUI,Guangxi,245782,0,2,2825976.059,2.94799E+11,China (PRC),China (RoC),None,None,None,None,Guangxi People,None,2,4,1,0,0,None,None,1,China
+NGX,Ningxia,52110,0,2,1655378.103,82491833096,China (PRC),China (ROC),None,None,None,None,Ningxia People,None,2,4,1,1,0,One China Policy,None,1,China
+SHI,Shanghai,16153,0,2,745221.231,22151385823,China (PRC),Shanghai,China (ROC),None,None,None,Shanghainese,None,2,4,1,0,1,Multiple,None,1,China
+HKG,Hong Kong,2763,0,2,236718.8873,3244969703,China (PRC),Hong Kong,China (ROC),None,None,None,Hong Konger,None,8,4,1,1,1,Multiple,None,1,China
+MAC,Macau,119,0,2,50210.06236,139163686.6,China (PRC),Macau,China (ROC),None,None,None,Macanese,None,2,4,1,0,1,Joint Declaration on the Question of Macau,None,1,China
+ANJ,Anjouan,440,0,7,131767.329,463899811.1,Comoros,None,None,None,None,None,Comoran,None,2,4,1,0,0,None,None,1,None
+MWL,Mwali,630,0,7,132748.5748,664102138.9,Comoros,None,None,None,None,None,Comoran,None,2,4,1,0,0,None,None,1,None
+GRL,Greenland,2556737,0,6,28952187.17,4.26193E+13,Denmark,Greenland,None,None,None,None,Greenlandic,None,2,4,1,0,1,Law of Greenlandic Self-rule of 2009,None,1,None
+FRO,Faroe Islands,6705,0,6,729345.7724,30193759681,Denmark,Republic of the Faroe Islands,None,None,None,None,Faroese,None,2,4,1,0,1,Political Party,None,1,None
+PCI,Paracel Islands,39773,0,2,1159279.893,43421061488,China (PRC),Vietnam,China (ROC),None,None,None,None,Nine-Dash Line,7,4,0,1,0,UNCLOS,None,0,China
+PNI,Pinnacle Islands,1747,0,1,190436.1431,2164568827,Japan,China (PRC),China (ROC),None,None,None,None,Japan,7,4,0,0,1,Multiple,None,0,China
+KUR,Kuril Islands,44526,0,1,1963098.721,88954502960,Russia,Japan,None,None,None,None,Kuril Island People,Russia,6,4,1,1,1,1945 Yalta Agreement,None,1,Japan
+HOK,Hokkaido,139288,0,6,2739862.681,2.63775E+11,Japan,Hokkaido,None,None,None,None,Hokkaido People,Japan,2,4,1,0,1,Ainu Liberation Alliance Party,None,0,None
+RYU,Okinawa,35532,0,6,1653401.53,43876604140,Japan,Republic of Ryuku,None,None,None,None,Ryukyuan,Japan,2,4,1,0,1,Kariyushi Club Party,None,1,None
+DOK,Dokdo,1808,0,1,193196.1789,2858376729,South Korea,Japan,None,None,None,None,None,None,6,4,1,0,1,Medieval Historical Claims,None,0,None
+OKT,Okino Torishima,1725,0,1,160268.8616,1974236440,Japan,China (PRC),None,None,None,None,None,Japan,7,4,1,0,1,UNCLOS,None,0,China
+ROK,Rockall Island,1164,0,6,230232.7173,4043115222,Denmark,United Kingdom,Iceland,None,None,None,None,None,7,4,0,0,1,UNCLOS,None,0,None
+NVN,Navassa Island,1739,0,5,158510.1444,1942373200,United States,Haiti,None,None,None,None,None,None,6,4,0,0,1,US Occupation,None,0,None
+BNB,Bajo Nuevo Bank,1929,0,8,164745.2856,2096034107,Colombia,United States,Jamacia,None,None,None,None,None,7,4,0,0,1,Guano Islands Act,None,0,None
+SRL,Serranilla Bank,1926,0,8,164752.8333,2092698280,Colombia,United States,Jamacia,Honduras,None,None,None,None,7,4,0,0,1,Guano Islands Act,None,0,None
+GIT,Guantanamo Bay USNB,170,0,6,54992.79803,193613786.1,Cuba,United States,None,None,None,None,None,None,6,4,0,1,1,Lease of former government,None,0,None
+UMI,Wake Atoll,54545,0,5,920265.7755,62471032059,United States,Marshall Islands,None,None,None,None,None,US Minor Outlying Islands,7,4,0,0,1,1899 US Claim,None,0,None
+USW,Swains Island,152,0,5,45899.51434,159126388.3,United States,Tokelau,None,None,None,None,None,None,6,4,0,0,1,2006 Tokelau Constitution,None,0,None
+UBM,USA-Bahamas Maritime Border,23670,0,2,1203875.434,29062933883,None,United States,Bahamas,None,None,None,None,None,7,4,0,0,1,UNCLOS,None,0,None
+HDC,Conejo Island,26,0,4,21175.98122,27297621.53,Honduras,El Salvador,None,None,None,None,Hondouran,None,7,4,0,0,1,1992 ICJ Ruling,None,0,None
+CRO,Isla Calero,494,0,2,93145.34371,515418625.9,Costa Rica,Nicaragua,None,None,None,None,Costa Rican,None,6,4,1,0,1,2015 ICJ Ruling,None,0,None
+BRD,Bird Island,1979,0,7,166603.3733,2147065709,Venezuela,Barbados,Netherlands,None,None,None,None,None,7,4,0,0,1,1978 Netherlands-Venezuela Marine Treaty,None,0,None
+GUY,Guyana,53364,1,4,1725502.571,54178637897,Guyana,None,None,None,None,None,Guyanese,None,1,1,1,0,0,None,None,0,None
+GYH,Courantyne Headwaters,14554,0,4,792842.2957,14676345030,Guyana,Suriname,None,None,None,None,Guyanese,None,6,4,1,0,1,UNCLOS,None,0,None
+FRL,Lawa Headwaters,3479,0,6,342635.4157,3510117688,France,Suriname,None,None,None,None,French Guianan,None,6,4,1,0,1,UNCLOS,None,0,None
+PEB,Peru-Chile Maritime Border,2021,0,1,223061.0596,2256607783,Peru,Chile,None,None,None,None,Peruvian,None,7,4,0,0,1,UNCLOS,None,0,None
+BRI,Brazilian Island,6,0,6,13340.59019,7897395.309,None,Brazil,Uruguay,Argentina,None,None,None,None,7,4,0,0,1,UNCLOS,None,0,None
+ACM,Atacama Corridor,208492,0,3,2964782.352,2.49368E+11,Chile,Bolivia,None,None,None,None,Chilean,None,6,4,1,1,1,1970 alleged promise,None,0,None
+CMA,Crimea,44773,0,7,1473491.87,90247913724,Russia,Ukraine,Republic of Crimea,Russia,Crimean Tatars,None,Crimean,Russia,5,4,1,1,1,Multiple,None,1,Russian Autonomous Republics
+CSP,Caspian Sea,297067,0,3,5010695.373,5.31163E+11,None,Azerbaijan,Russia,Iran,Turkmenistan,Kazakhstan,None,None,7,4,0,0,1,UNCLOS,None,0,None
+NVR,Narva Reservior,80,0,2,103751.7989,306815393.4,None,Russia,Estonia,None,None,None,None,None,7,4,0,0,1,Unratified 2014 Border Treaty,None,0,None
+ABK,Abkhazia,12481,0,5,746223.477,23383147202,Georgia,Abkhazia,Russia,None,None,None,Abkhazian,Russia,5,4,1,1,1,UNPO Member,None,1,None
+TNT,Transnistria,3641,0,3,1126074.27,7925572693,Moldova,Pridnestrovian Moldavian Republic,Russia,None,None,None,Transnitrian,Russia,5,4,1,1,1,Army of Transnistria,None,1,None
+SOS,South Ossetia,3832,0,5,506591.7405,7021475836,Georgia,South Ossetia,Russia,None,None,None,South Ossetian,Russia,5,4,1,1,1,1991 War for Independence,None,1,None
+KAD,Baikonur Cosmodrome,2835,0,8,398684.3716,5863463692,Kazakhstan,Russia,None,None,None,None,None,None,6,4,0,0,1,Alleged breach of lease terms,None,0,None
+GIB,Gibralter,92,0,7,45562.23369,140939724.1,United Kingdom,Spain,None,None,None,None,Gibraltarian,None,2,4,1,0,1,1704 War of Spainish Succession,None,1,None
+IOT,Chagos Archipelago,13787,0,2,881750.6273,14060111735,United Kingdom,Mauritius,None,None,None,None,Chagossian,British Indian Ocean Territory,1,1,1,0,0,2019 ICJ Ruling,None,0,None
+LLM,Latvia-Lithuania Maritime Border,470,0,8,153581.7524,1504127897,None,Latvia,Lithuania,None,None,None,None,None,7,4,0,0,1,Unratified 1998 Maritime Treaty,None,0,None
+MYT,Mayotte,6215,0,8,295961.3533,6577037383,France,Comoros,Mayotte,None,None,None,Mahoran,France,2,4,1,0,1,Multiple,None,1,None
+ATF,Juan De Nova Island,1810,0,8,160450.3493,1991962720,France,Madagascar,None,None,None,None,None,The French Southern Territories,7,4,0,0,1,1972 Madagascar Independence,None,0,None
+ATF,Glorioso Islands,2138,0,8,171904.4852,2240675466,France,Madagascar,None,None,None,None,None,The French Southern Territories,7,4,0,0,1,France–Seychelles Maritime Boundary Agreement,None,0,None
+ATF,Tromelin Island,1568,0,8,149438.2382,1705309069,France,Mauritius,Seychelles,None,None,None,None,The French Southern Territories,7,4,0,0,1,1814 Treaty of Paris,None,0,None
+ATF,Europa Island,2102,0,8,180008.1922,2469539613,France,Madagascar,None,None,None,None,None,The French Southern Territories,7,4,0,0,1,UNCLOS,None,0,None
+ATF,Bassas da India,2363,0,8,189242.9438,2742576548,France,Madagascar,None,None,None,None,None,The French Southern Territories,7,4,0,0,1,UNCLOS,None,0,None
+MHI,Matthew and Hunter Islands,4859,0,6,472418.4555,5691585455,France,New Caledonia,Vanuatu,None,None,None,None,None,1,1,1,0,0,None,None,0,None
+OLV,Olivenzia,401,0,7,126706.3555,659209303.2,Spain,Portugal,None,None,None,None,Guadianero,None,6,4,1,0,1,1815 Congress of Vienna,None,0,None
+ICF,Islas Chafarinas,1,0,5,9589.890439,774975.4588,Spain,Morocco,None,None,None,None,None,None,7,4,1,0,1,ICJ,None,0,None
+MLA,Melilla,14,0,5,28470.99799,20860806.9,Spain,Morocco,None,None,None,None,Melillan,None,2,4,1,0,1,ICJ,None,1,None
+SPA,Penon De Alhucemas,0,0,5,2243.441966,67416.41265,Spain,Morocco,None,None,None,None,None,None,7,4,0,0,1,ICJ,None,0,None
+SPB,Penon De Velez De Gomera,0,0,5,1665.647837,63365.51377,Spain,Morocco,None,None,None,None,None,None,7,4,0,0,1,ICJ,None,0,None
+MAP,Isla De Perejil,0,0,5,2588.276237,222139.7275,Spain,Morocco,None,None,None,None,None,None,7,4,0,0,1,ICJ,None,0,None
+CTA,Ceuta,21,0,5,35979.03108,31739828.46,Spain,Morocco,None,None,None,None,Ceutan,None,2,4,1,0,1,ICJ,None,1,None
+GOP,Gulf of Prin,210,0,8,152130.6299,427377363.8,None,Slovenia,Croatia,None,None,None,None,None,7,4,0,0,1,Croatian EU Schengen Requirements,None,0,None
+DRR,Drina River,586,0,8,456580.061,1142657866,Bosnia and Herzegovina,Serbia,None,None,None,None,None,None,7,4,0,0,1,UNCLOS,None,0,None
+NKB,Nagorno-Karabakh,13923,0,4,850319.7471,23611987198,Azerbaijan,Nagorno-Karabakh,None,None,None,None,Karabakh,Azerbaijan,4,4,1,1,1,Ongoing War,None,1,None
+SHT,Shatt al-Arab River,894,0,5,161036.4976,1191449705,None,Iraq,Iran,None,None,None,None,None,7,4,0,0,1,1937 Border Treaty,None,0,None
+GOH,Golan Heights,1160,0,6,223417.5809,1653776120,Israel,Syria,Palestine,None,None,None,Israeli,None,6,4,1,1,1,Ongoing Conflict,None,1,None
+GBZ,Golan Buffer Zone,618,0,6,229408.3475,883290351.9,Israel,Syria,Palestine,None,None,None,Israeli,None,6,4,1,1,1,Ongoing Conflict,None,1,None
+SYK,Syrian Kurdistan,53169,0,8,1668149.91,81673961790,Syria,Syrian Kurdistan,Islamic State of Iraq and the Levant,None,None,None,Kurdish,Kurdistan,4,4,1,1,1,Ongoing War,None,1,ISIL Insurgency
+IRK,Iraqi Kurdistan,48766,0,1,2167728.136,74677895354,Iraq,Iraqi Kurdistan,Democratic Republic of Assyria,Islamic State of Iraq and the Levant,None,None,Kurdish,Kurdistan,2,3,1,1,1,Ongoing Military Conflict,None,1,ISIL Insurgency
+INK,Iranian Kurdistan,55138,0,6,2639208.147,85436575659,Iran,Iranian Kurdistan,None,None,None,None,Kurdish,Kurdistan,4,4,1,1,1,Ongoing Conflict,None,0,None
+GZS,Gaza Strip,358,0,6,131779.6054,492310062.4,Palestine,Islamic State,Other Jiahadists,None,None,None,Palestinian,None,6,3,1,1,1,Ongoing Conflict,None,0,None
+WBK,West Bank,5999,0,6,461897.8247,8355176336,Palestine,Israel,None,None,None,None,Palestinian,None,1,3,1,1,1,Ongoing Conflict,None,0,None
+SAT,Tiran and Sanafir Islands,128,0,3,86989.89752,164672441.2,Saudi Arabia,None,None,None,None,None,Saudi Arabian,None,7,4,1,0,0,Resolved by Egypt,None,0,None
+EHT,Hala'ib Triangle,23845,0,1,874316.9248,28041619644,Egypt,Sudan,None,None,None,None,Halaib,None,6,4,1,0,1,1902 Border Treaty,None,0,None
+SDT,Bir Tawil,1957,0,2,229734.1338,2283174001,None,None,None,None,None,None,None,None,3,4,0,0,0,1902 Border Treaty,None,1,None
+CNY,Canary Islands,45957,0,7,2304740.121,59786354179,Spain,Republic of the Canaary Islands,None,None,None,None,Canarians,None,4,4,1,0,1,Political Parties,None,0,None
+MWS,Moroccan Western Sahara,210432,0,5,2946402.096,2.56831E+11,Morocco,Western Sahara,None,None,None,None,Western Saharan,Berberism,6,4,1,1,1,Ongoing Conflict,None,1,None
+ESH,Western Sahara,81994,0,5,3007838.65,99047673421,Western Sahara,Morocco,None,None,None,None,Western Saharan,Berberism,6,3,1,1,1,Ongoing Conflict,None,0,None
+ABY,Abyei,10487,0,2,412977.3099,10868040728,Abyei,South Sudan,Sudan,None,None,None,Sudanese,None,8,2,1,1,1,2005 Comprehensive Peace Agreement,None,1,None
+KNT,Ilemi Triangel,3375,0,1,339591.9069,3421539093,Kenya,South Sudan,None,None,None,None,Kenyan,None,6,4,1,0,1,1914 Uganda-Sudan Boundary Comission,None,0,None
+SCB,South Soudan- CAR Border,28963,0,7,1492080.617,29643955702,None,South Sudan,Central African Republic,Continued Ethnic Violence,None,None,None,None,6,4,1,1,1,Ongoing Conflict,None,1,None
+GNY,Yenga,50,0,6,34725.7786,51889881,Sierra Leone,Guinea,None,None,None,None,Kissi,None,6,4,1,0,0,Suposedly resolved in SL's favor in 2013,None,0,None
+BNN,Benin-Niger-Nigeria Tripoint,258,0,1,66535.92501,270369138.1,Nigeria,Benin,Niger,None,None,None,Nigerian,None,6,4,1,0,1,2005 Border de-marcation,None,0,None
+DMR,Doumeira Island,5,0,4,8944.271515,4968074.915,Djibouti,Eritrea,None,None,None,None,None,None,7,4,0,0,1,1935 Franco-Italian Agreement,None,0,None
+BDM,Badme,739,0,4,105672.1945,794603145.8,Eritrea,Ethiopia,Tigray,None,None,None,Eritrean,None,6,4,1,0,0,None,None,0,None
+SML,Somaliland,187255,0,7,2034869.543,1.94141E+11,Somaliland,Somalia,Puntland,None,None,None,Somali,Somali Peoples,6,3,1,1,1,1991 Somail Civil War,None,0,None
+RUW,Rukwanzi Island,2,0,4,5076.056262,1539977.558,Congo (DRC),Uganda,None,None,None,None,Congolese,None,6,4,1,0,1,UNCLOS,None,0,None
+MBN,Mbane Island,682,0,4,128714.3259,686290713.7,Gabon,Equatorial Guinea,None,None,None,None,None,None,7,4,0,0,1,1970 Gabon Occupation,None,0,None
+NTM,Ntem River Island,194,0,2,92964.94797,195995336.9,Equatorial Guinea,Cameroon,None,None,None,None,None,None,7,4,0,0,1,2002 ICJ Ruling,None,0,None
+SAB,Sabanerwa,3,0,3,6854.632442,3202415.988,Burundi,Rwanda,None,None,None,None,None,None,6,4,1,0,1,1962 Borders,None,0,None
+LMW,Lake Malawi,9825,0,2,589215.6346,10236452241,Malawi,Tanzania,None,None,None,None,None,None,7,4,0,0,1,Post-independence Borders,None,0,None
+CNV,4 Way Convergence Point,33,0,2,25945.14613,36407850.42,Botswana,Zimbabwe,Zambia,Namibia,None,None,None,None,6,4,0,0,1,De facto Botswana,None,0,None
+ORN,Orange River,5197,0,1,1103110.357,6764774865,Namibia,Angola,None,None,None,None,None,None,7,4,0,0,1,Namibia claims all of the river.,None,0,None
+ZAK,KaNgwane,2757,0,7,390795.1503,3420211288,South Africa,Swaziland,None,None,None,None,South African,None,6,4,1,0,1,Unrealized 1982 transfer,None,0,None
+UZF,Fergana Valley,17807,0,5,1000218.802,31063500541,Uzbekistan,Kyrgyzstan,Tajikistan,None,None,None,Uzbekistani,None,6,4,1,0,1,Multiple,None,0,None
+ARP,Arunachal Pradesh,82296,0,5,2354538.762,1.06034E+11,India,China (PRC),Xizang (Greater Tibet),China (ROC),None,None,Arunachalis,India,8,4,1,1,1,1914 Simla Accord,None,1,China
+KLA,Kalapani Territory,85,0,1,43053.38152,114483386.7,India,Nepal,None,None,None,None,Kalapani,None,6,4,1,0,1,Ongoing Negotiations,None,0,None
+CHS,Chumbi Salient,142,0,1,57932.32416,181878771.5,Bhutan,China (PRC),Xizang (Greater Tibet),China (ROC),None,None,Bhutanese,None,6,4,1,0,1,Multiple,None,1,China
+NWB,North-West Bhutan,1219,0,1,243437.9892,1575648793,China (PRC),Bhutan,Xizang (Greater Tibet),China (ROC),None,None,Bhutanese,None,6,4,1,0,1,ICJ,None,1,China
+NAF,Naf River,82,0,1,97026.80123,94831299.41,Bangladesh,Myanmar,None,None,None,None,None,None,7,4,0,0,1,UNCLOS,None,0,None
+HPT,Hill of Phnom Trap,161,0,1,54199.9179,172457088.6,Thailand,Cambodia,None,None,None,None,None,None,6,4,0,0,1,2013 ICJ Ruling,None,0,None
+TIM,Timor Gap,44879,0,5,931840.826,46793529870,East Timor,Australia,None,None,None,None,None,None,7,4,0,0,1,UNCLOS,None,0,None
+GUM,Guam,728940,0,5,5393376.389,7.69104E+11,United States,None,None,None,None,None,Guamanian,None,3,4,1,0,0,UNPO Member,None,0,None
+MNP,Northern Mariana Islands,2057989,0,5,6692843.588,2.2892E+12,United States,None,None,None,None,None,Northern Mariana Islanders,None,3,4,1,0,0,None,None,1,None
+USH,Hawaii,2064420,0,5,7493567.601,2.48554E+12,United States,Republic of Hawaii,None,None,None,None,Hawaiian,None,4,4,1,0,1,Nation of Hawai'i,None,0,None
+VIR,US Virgin Islands,1052,0,5,164336.0193,1173497320,United States,None,None,None,None,None,American Virgin Islander,None,3,4,1,0,0,None,None,1,None
+PRI,Puerto Rico,32009,0,5,1331657.474,35645311840,United States,Puerto Rico,None,None,None,None,Puerto Rican,None,3,4,1,0,1,Popular Referendium,None,1,None
+ASM,American Samoa,262680,0,5,2387252.738,2.78104E+11,United States,None,None,None,None,None,American Samoan,None,3,4,1,0,0,None,None,1,None
+CAS,Canadian Cascadia,1024334,0,4,11152058.35,3.07157E+12,Canada,Cascadia,None,None,None,None,Cascadian,Cascadia,4,4,1,0,1,Cascadia Department of Bioregion,None,0,None
+USC,American Cascadia,454131,0,5,4185595.44,9.24813E+11,United States,Cascadia,None,None,None,None,American Cascadian,Cascadia,4,4,1,0,1,Cascadia Department of Bioregion,None,0,None
+ABT,Alberta,660153,0,4,6063211.763,2.0356E+12,Canada,Alberta,None,None,None,None,Albertan,None,4,4,1,0,1,Independence Party of Alberta,None,0,None
+QUB,Qubec,1770588,0,4,13153478.87,5.13152E+12,Canada,Qubec,None,None,None,None,Quebecer,None,4,4,1,0,1,Parti Québécois,None,0,None
+GLP,Guadeloupe,11017,0,6,422907.5624,12013678747,France,Republic of Guadeloupe,None,None,None,None,Guadeloupean,None,3,4,1,0,1,United Guadeloupe,None,1,None
+MTQ,Martinique,6447,0,6,310025.394,6927987442,France,Republic of Martinique,None,None,None,None,Martinican,France,2,4,1,0,1,Martinican Independence Movement,None,1,None
+MXY,Yucatan,47007,0,3,951639.1939,54107280796,Mexico,Republic of Yucatan,None,None,None,None,Yucateco,None,4,4,1,0,1,Allicance for Yucatan Party,None,0,None
+CIP,Chiapas,78589,0,3,1429006.086,85892036416,Mexico,Zapatas Cartel,None,None,None,None,Chiapaneco,None,4,4,1,1,1,Ongoing Military Conflict,None,1,None
+NIM,Mosquito,68011,0,5,1633855.269,72217937108,Nicaragua,Communitarian Nation of Moskitia,None,None,None,None,Nicaraguan,None,4,4,1,1,1,Militant Organization,None,1,None
+NVS,Nevis,1499,0,5,161356.8127,1650434396,Saint Kitts and Nevis,Dominion of Nevis,None,None,None,None,Nevisian,None,2,4,1,0,1,Concerned Citizens' Movement,None,1,None
+USL,Lakotah,230821,0,5,3550354.465,4.45231E+11,United States,Republic of Lakotah,None,None,None,None,American,None,4,4,1,0,1,Lakota Freedom Movement,None,0,None
+USF,California,460369,0,5,5006692.899,7.29132E+11,United States,Second California Republic,None,None,None,None,Californian,None,4,4,1,0,1,California National Party,None,0,None
+USK,Northwest Territorial Imperative,798577,0,5,6503989.325,1.62023E+12,United States,Northwest American Republic,None,None,None,None,Chud,None,4,4,1,0,1,White supremacists groups,None,0,None
+UST,Texas,708543,0,5,5317294.623,9.77308E+11,United States,Republic of Texas,None,None,None,None,Texan,None,4,4,1,0,1,Texas Nationalist Movement,None,0,None
+USO,Vermont,25171,0,5,1052871.751,48807220753,United States,Vermont Republic,None,None,None,None,Vermonter,None,4,4,1,0,1,Vermont Independence Party,None,0,None
+ALK,Alaska,1953989,0,5,32512491.84,9.97282E+12,United States,Republic of Alaska,None,None,None,None,Alaskan,None,4,4,1,1,1,Alaskan Independence Party,None,0,None
+MEN,Mendoza,150609,0,8,2222235.498,2.23221E+11,Argentina,Mendoza Republic,None,None,None,None,Argentine,None,4,4,1,0,1,Mendoexit,None,0,None
+SUL,Sul,605520,0,6,4416417.807,7.7751E+11,Brazil,Sul,None,None,None,None,Sul-rio-grandense,None,4,4,1,0,1,The South Is My Country,None,0,None
+SAO,Sao Paulo,265746,0,6,2957873.528,3.12825E+11,Brazil,Sao Paulo,None,None,None,None,Paulistano,None,4,4,1,0,1,Free Sao Paulo,None,0,None
+SAP,San Andres and Providencia,18796,0,8,1291612.95,19907218957,Colombia,San Andres y Providencia,None,None,None,None,Raizals,None,4,4,1,0,1,AMEN-SD,None,0,None
+GUF,French Guiana,89383,0,6,1296857.81,90463957229,France,Republic of Amazonia,None,None,None,None,French Guianan,None,2,4,1,0,1,Ballot Proposition,None,1,None
+CUW,Curacao,5380,0,7,303069.2107,5664851483,Netherlands,Curacao,None,None,None,None, Curaçaoan,ABC Islands,2,4,1,0,1,Movement for the Future of Curacao,None,1,None
+ZUL,Zulia,49229,0,7,1675616.996,51082065130,Venezuela,Zulia,None,None,None,None,Venezuelan,None,4,4,1,0,1,Ballot Proposition,None,0,None
+TMR,Southeastern Azerbaijan,9854,0,4,749252.2555,16327440432,Azerbaijan,Talysh-Mughan Autonomous Republic,None,None,None,None,Talysh,Azerbaijan,4,4,1,0,1,Talysh National Movement,None,0,None
+RSK,Republika Srpska,24749,0,8,2504833.307,48244325751,Bosnia and Herzegovina,Republika Srpska,None,None,None,None,Serbian,None,4,4,1,0,1,National Assembly of the Serbian Republic,None,0,None
+MRV,Moravia,22114,0,3,1293348.606,52038857438,Czechia,Moravia,None,None,None,None,Moravian,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+ALA,Aland,13448,0,7,937373.4481,54112398660,Finland,Aland,None,None,None,None,Alandic,None,4,4,1,0,1,Political Party,None,0,None
+ALC,Alsace,8478,0,6,917336.4755,19175466659,France,Alsace,None,None,None,None,Alsatian,France,2,4,1,0,1,Political Parties,None,1,None
+FRB,French Basque Country,4783,0,6,500118.603,9037160912,France,Basque Country,None,None,None,None,Basque,Basque Country,4,4,1,0,1,Eusko Alkatasuna,None,0,None
+SBC,Spanish Basque Country,10525,0,7,777493.9035,19789733628,Spain,Basque Country,Castille,None,None,None,Basque,Basque Country,4,4,1,0,1,Eusko Alkatasuna,None,0,None
+BRT,Brittany,48541,0,6,1428068.954,1.09265E+11,France,Brittany,None,None,None,None,Breton,None,4,4,1,0,1,UNPO Member,None,0,None
+FRC,Corsica,20327,0,6,780409.6159,37053183022,France,Corsica,None,None,None,None,Corsican,France,2,4,1,0,1,Political Parties,None,1,None
+NCT,Northern Catalonia,5213,0,6,550954.1656,9628537192,France,Occitania,Catalonia,None,None,None,Catalonian,None,4,4,1,0,1,UNPO Member,None,0,None
+CAT,Catalonia,40580,0,7,1323443.162,72825078384,Spain,None,Catalonia,None,None,None,Catalonian,None,2,4,1,0,1,UNPO Member,None,1,None
+FOC,Occitania,168985,0,6,3050563.46,3.32127E+11,France,Occitania,None,None,None,None,Occitanian,Occitania,4,4,1,0,1,Bastir!,None,0,None
+ITO,Italian Occitania,4418,0,4,511965.0134,8718347974,Italy,Occitania,North Italy,None,None,None,Occitan,Occitania,4,4,1,0,1,Bastir!,None,0,None
+FRV,Provence,40547,0,6,1602293.597,77859858692,France,Provence,Occitania,None,None,None,Provençal,None,4,4,1,0,0,None,None,0,None
+FRA,France,273670,1,6,4958756.783,6.05822E+11,France,None,None,None,None,None,French,None,1,1,1,0,0,None,None,0,None
+FRS,Savoy,11098,0,6,809831.9933,22774928991,France,None,None,None,None,None,Savoyard,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+FRN,Normandy,39703,0,6,1481898.998,93023882098,France,None,None,None,None,None,Norman,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+IMN,Isle of Man,4519,0,5,425661.6631,13178610457,United Kingdom,Isle of Man,None,None,None,None,Manx,None,4,4,1,0,1,Mec Vannin,None,0,None
+BVA,Bavaria,70711,0,8,2852279.63,1.63868E+11,Germany,Free State of Bavaria,None,None,None,None,Bavarian,None,4,4,1,0,1,Bavaria Party,None,0,None
+EFS,East Frisia,6115,0,8,622287.6945,17314898753,Germany,None,None,None,None,None,East Frisian,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+LUS,Lusatia,7487,0,8,805594.7145,19233241479,Germany,None,None,None,None,None,Lusatian,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+NFS,North Frisia,5855,0,8,581710.9136,17449860935,Germany,None,Schleswig-Holstein,None,None,None,North Frisian,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+SWH,Schleswig-Holstein,3842,0,8,543465.5854,11407793417,Germany,None,None,None,None,None,Sylters,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+AOV,Aosta Valley,3268,0,4,414729.4547,6706076576,Italy,Aosta Valley,North Italy,None,None,None,Aostan,None,2,4,1,0,1,Valdostan Union,None,1,None
+FVG,Friuli-Venezia Giulia,8126,0,4,677148.6491,16921156971,Italy,Friuli,North Italy,None,None,None,Friuli Venezia Giulian,None,2,4,1,0,1,Political Parties,None,1,None
+ITT,Trieste,367,0,4,112736.439,751643862.2,Italy,None,North Italy,None,None,None,Triestino,None,2,4,1,0,0,None,None,1,None
+ITN,North Italy,32018,0,4,1655446.11,63632204983,Italy,North Italy,None,None,None,None,North Italian,None,2,4,1,0,0,None,None,1,None
+ITL,Lombardy,23543,0,4,1520221.274,48123142358,Italy,Lombardi,North Italy,None,None,None,Lombard,None,1,1,1,0,0,None,None,0,None
+ITV,Veneto,21973,0,4,1223808.76,44852856615,Italy,Veneto,North Italy,None,None,None,Venetian,None,4,4,1,0,0,None,None,0,None
+STR,South Tyrol,7331,0,4,814586.3248,15578907330,Italy,South Tyrol,North Italy,None,None,None,South Tyrolean,Trentino-Alto Adige,2,4,1,0,1,Political Parties,None,1,North Italy
+SRD,Sardinia,46897,0,4,1162036.935,80188210051,Italy,Sardinia,None,None,None,None,Sardinian,None,2,4,1,0,1,Sardinian Action Party,None,1,None
+SCY,Sicily,64016,0,4,2329929.223,1.02079E+11,Italy,Sicily,None,None,None,None,Sicillian,None,2,4,1,0,1,Free Sicilians,None,1,None
+RKS,North Kosovo,998,0,1,260911.9904,1869874200,Kosovo,Republic of Kosovo,Albania,None,None,None,Kosovar,None,2,4,1,0,0,None,None,1,None
+LTS,Samogitia,13987,0,2,1132616.907,43915351506,Lithuania,None,None,None,None,None,Samogitian,None,4,4,0,0,0,Seeking Autonomy,None,0,None
+GGZ,Gagauzia,1851,0,3,650289.5459,3845989458,Moldova,Gagauzia,Russia,None,None,None,Gagauzian,Russia,5,4,1,0,1,Political Party,None,1,None
+NLF,Frisia,14310,0,7,907961.5674,39794110280,Netherlands,West Frisia,None,None,None,None,Frisians,None,4,4,1,0,1,Frisian National Party,None,0,None
+POS,Upper Silesia,21640,0,5,1194630.615,53376477344,Poland,None,None,None,None,None,Silesian,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+POK,Kashubia,5470,0,5,852098.1994,16179223829,Poland,None,None,None,None,None,Kashubian,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+POG,Gdansk,1149,0,5,337902.8743,3401107111,Poland,Free City of Danzig,None,None,None,None,Danzigers,None,4,4,1,0,1,Government in Exile,None,0,None
+ROV,Transylvania and Banat,57645,0,6,2679185.519,1.19779E+11,Romania,Partium,Transylvania and Banat,None,None,None,Transylvanian,None,4,4,1,0,1,Liga Transilvania-Banat,None,0,None
+ROS,Szekely Land,17058,0,6,1041239.906,35914594124,Romania,Partium,Transylvania and Banat,Szekely Land,None,None,Székelys,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+ROP,Partium,25573,0,6,1616340.092,55069115590,Romania,Partium,None,None,None,None,Székelys,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+SRV,Vojvodina,21541,0,7,1267231.843,43698045746,Serbia,None,None,None,None,None,Seriban,None,2,4,1,0,0,None,None,1,None
+SRS,Sandzak,4500,0,7,521351.8082,8489581931,Serbia,None,None,None,None,None,Seriban,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+SVH,Ethnic Hungarian Slovakia,8388,0,6,1376894.871,18877031628,Slovakia,None,None,None,None,None,Slovakian Hungarians,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+GAN,Greater Andalusia,65150,0,7,1748334.093,1.03765E+11,Spain,Andalusia,Castille,None,None,None,Andalucian,None,2,4,1,0,0,Nacion Andaluza,None,1,None
+AGN,Aragon,47965,0,7,1538129.585,85659530953,Spain,Aragon,None,None,None,None,Aragonese,None,2,4,1,0,0,NonePuyalon de Churas,None,1,None
+ASA,Asturias,15740,0,7,812374.5083,29837897586,Spain,Asturias,Castille,None,None,None,Asturian,None,2,4,1,0,0,Andecha Astur,None,1,None
+GLA,Galicia,40671,0,7,1288181.39,75765829421,Spain,Galicia,Castille,None,None,None,Galician,None,2,4,1,0,0,Glacian Nationalist Bloc,None,1,None
+LEO,Leon,38078,0,7,1705456.631,68623494934,Spain,Leon,Castille,None,None,None,Leonese,None,2,4,1,0,0,UPL,None,1,None
+VAL,Valencia,36007,0,7,1679125.504,60308088224,Spain,Valencian Country,Catalonia,None,None,None,Valencian,None,2,4,1,0,0,Valencian Nationalist Bloc,None,1,None
+NAV,Navarra,10342,0,7,777158.6322,19137787996,Spain,Navarra,Basque Country,None,None,None,Basque,Basque Country,2,4,1,0,0,None,None,1,None
+BLS,Balearic Islands,25038,0,7,1188477.786,42073813189,Spain,Valencian Country,Catalonia,None,None,None,Balearic,None,2,4,1,0,0,Convergencia Democratica Aranesa,None,1,None
+ARV,Aran Valley,613,0,7,174147.1322,1136705961,Spain,Occitania,Catalonia,None,None,None,Aranese,None,2,4,1,0,1,UNPO Member,None,1,None
+ANU,Andalusia,38055,0,7,1347140.845,59796271219,Spain,Andalusia,None,None,None,None,Andalusian,None,2,4,1,0,1,Nacion Andaluza,None,1,None
+CTJ,Canton of Jura,1465,0,7,414688.5042,3184956697,Switzerland,None,None,None,None,None,Swiss,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+SCN,Scania,34781,0,4,2051918.009,1.12267E+11,Sweden,Scania,None,None,None,None,Scanians,None,4,4,1,0,1,Scania Party,None,0,None
+DKO,Donetsk Oblast,29067,0,7,1372449.689,64787709475,Russia,Russian Insurgents,None,None,None,None,Ukrainian,Russia,5,4,1,1,1,Ongoing Military Conflict,None,1,None
+LHO,Luhansk Oblast,26619,0,7,1421825.539,61768051083,Russia,Russian Insurgents,None,None,None,None,Ukrainian,Russia,1,4,1,1,1,Ongoing Military Conflict,None,1,None
+GBC,Cornwall,13807,0,5,960491.4991,33768939544,United Kingdom,Cornwall,England,None,None,None,Cornish,None,4,4,1,0,1,Mebyon Kernow Cornish Nationalist Party,None,0,None
+GBI,Northern Ireland,19285,0,5,1387760.302,57437514741,United Kingdom,Ireland,None,None,None,None,Irish,None,4,4,1,1,1,Sinn Fein,None,0,None
+GBS,Shetland,11915,0,5,913758.511,48542457321,United Kingdom,Shetland,Scotland,None,None,None,People of Shetland,None,4,4,1,0,1,Ballot Referendum,None,0,None
+GBW,Wales,36267,0,5,1638803.354,97084683537,United Kingdom,Wales,None,None,None,None,Welsh,None,2,4,1,0,1,Ballot Referendum,None,1,None
+GBN,Northern England,18470,0,5,1279972.907,53526700570,United Kingdom,Northern England,England,None,None,None,People of Northern England,None,4,4,1,0,1,Northern Independence Party,None,0,None
+GBL,London,2292,0,5,297554.4975,5902865408,United Kingdom,London,England,None,None,None,Londoners,None,4,4,1,0,1,Londependence Party,None,0,None
+GBE,Nort East England,11819,0,5,931828.884,36071830121,United Kingdom,Northern England,Northe East England,England,None,None,Geordies,None,4,4,1,0,1,North East Party,None,0,None
+SCT,Scotland,155554,0,5,4612164.661,5.26879E+11,United Kingdom,Scotland,None,None,None,None,Scots,None,2,4,1,0,1,Political Referendium,None,1,None
+GBY,Yorkshire,17258,0,5,1147049.731,50079568973,United Kingdom,Yorkshire,Northern England,England,None,None,People of Yorkshire,None,4,4,1,0,1,Yorkshire Devolution Movement,None,0,None
+GBX,Wessex,40672,0,5,1951366.536,1.02774E+11,United Kingdom,Wessex,England,None,None,None,People of Wessex,None,4,4,1,0,1,Wessex Constitutional Convention,None,0,None
+GBR,United Kingdom,75977,1,5,2927957.117,2.02679E+11,United Kingdom,England,None,None,None,None,British,None,1,1,1,0,1,Ballot Referendum,None,0,None
+RUT,Tatarstan,69281,0,1,3067751.695,2.13865E+11,Russia,Idel-Ural,Tatarstan,None,None,None,Tartars,Autonomous Russian Republics,2,4,1,0,1,Ittifaq Party,None,1,None
+BHK,Bashkortostan,141125,0,1,4296865.809,4.13504E+11,Russia,Idel-Ural,Bashkortostan,None,None,None,Bashkirs,Autonomous Russian Republics,2,4,1,0,1,The Heavenly Wolf,None,1,None
+UDM,Udmurtia,42235,0,1,1995748.238,1.43442E+11,Russia,Idel-Ural,Udmurtia,None,None,None,Udmurtia,Autonomous Russian Republics,2,4,1,0,1,Udmurt Kenesh,None,1,None
+CHV,Chuvashia,18526,0,1,1133286.116,57604664611,Russia,Idel-Ural,Tatarstan,Chuvashia,None,None,Chuvash,Autonomous Russian Republics,2,4,1,0,1,Chuvash National Movement,None,1,None
+RUK,Komi,418360,0,1,9359527.52,2.20635E+12,Russia,Komi Republic,None,None,None,None,Komi,Autonomous Russian Republics,2,4,1,0,0,Komi Republican Organization,None,1,None
+KRL,Karelia,178969,0,1,4840652.356,9.10521E+11,Russia,Karelia,Finland,None,None,None,Karelian,Autonomous Russian Republics,2,4,1,0,1,None,None,1,None
+RUG,Kalinigrad,18243,0,1,1049360.687,54706953609,Russia,Kaliningrad,None,None,None,None,Russian,Autonomous Russian Republics,2,4,1,0,1,Kaliningrad Public Movement,None,1,None
+RUR,Sverdlovsk Oblast,643709,0,1,13038016.43,2.1515E+12,Russia,Ural Republic,Permyakia,None,None,None,Russian,None,2,4,1,0,1,Ural Democratic Foundation,None,1,None
+RUL,Leningrad,99525,0,1,3419605.697,3.97953E+11,Russia,Ingria,None,None,None,None,Russian,Autonomous Russian Republics,2,4,1,0,1,Free Ingria,None,1,None
+RUD,Don Republic,101815,0,1,3049741.863,2.25095E+11,Russia,Don Republic,Kuban,None,None,None,Don Cossacks,None,4,4,1,0,1,Krasnodar Krai,None,0,None
+CHY,Chechnya,16303,0,1,910190.1079,30798643466,Russia,Chechen Republic of Ichkeria,None,None,None,None,Chechen,Autonomous Russian Republics,2,4,1,1,1,Government in Exile,None,1,None
+RUB,Kuban,88653,0,1,3438204.066,1.7918E+11,Russia,Kuban People's Republic,Circassia,None,None,None,Kuban Cossacks,None,4,4,1,1,1,Klin-Yar,None,0,None
+LEZ,Lezgistan,6525,0,1,756420.3487,11721663649,Russia,Lezgistan,Dagestan,None,None,None,Lezgins,Autonomous Russian Republics,2,4,1,0,1,UNPO Member,None,1,None
+AZL,Azerbaijani Lezgistan,2789,0,4,489078.21,4950194562,Azerbaijan,Lezgistan,None,None,None,None,Lezgistani,Azerbaijan,4,4,1,0,1,UNPO Member,None,0,None
+DAG,Dagestan,55086,0,1,2098162.392,1.04218E+11,Russia,None,None,None,None,None,Dagestani,Autonomous Russian Republics,2,4,1,0,0,None,None,1,None
+RUC,Karachay-Cherkessia,13953,0,1,1076645.153,26761022827,Russia,Circassia,Karachay-Balkaria,None,None,None,Karachays,Autonomous Russian Republics,2,4,1,0,1,Multiple,None,1,None
+ABZ,Abazinia,307,0,1,136336.2543,596144624.4,Russia,Circassia,Karachay-Balkaria,Abazinia,Karachay-Cherkess,None,Abazins,Autonomous Russian Republics,2,4,1,0,1,World Congress of Abkhaz-Abazin People,None,1,None
+RUA,Circassia,66238,0,1,2056820.38,1.32296E+11,Russia,Circassia,None,None,None,None,Circassian,None,4,4,1,0,1,Cricassian Congress,None,0,None
+TAB,Tabasaranstan,786,0,1,246175.6046,1419923383,Russia,Tabasaranstan,Lezgistan,None,None,None,Tabasaran,Autonomous Russian Republics,2,4,1,0,1,Tabasaran National Movement,None,1,None
+AMZ,Ambazonia,44005,0,7,1163081.38,44736420708,Cameroon,Ambazonia,None,None,None,None,Ambazonian,None,4,4,1,1,1,Ongoing Military Conflict,None,1,None
+BKS,Bakassi,1407,0,7,152211.6063,1424922765,Cameroon,Ambazonia,Bakassi,None,None,None,Oron,None,4,4,1,1,1,Ongoing Military Conflict,None,1,None
+LOG,Logone,189252,0,3,2277409.864,1.94615E+11,Central African Republic,Republic of Logone,None,None,None,None,Central African,None,4,4,1,0,0,None,None,0,None
+ZWM,Matabeleland,128417,0,4,2311480.221,1.45815E+11,Zimbabwe,Matabeleland,None,None,None,None,Zimbabwean,None,1,1,1,0,0,None,None,0,None
+ZMB,Zambia,322832,1,5,2971963.833,3.39082E+11,Zambia,None,None,None,None,None,Zambian,None,1,1,1,0,0,None,None,0,None
+BZV,Brazzaville,6018,0,8,375605.826,6087197564,Congo,Brazzaville,None,None,None,None,Congolese,None,4,4,1,0,0,None,None,0,None
+LOA,Loanga,17208,0,8,585354.6769,17420597875,Congo,Loanga,None,None,None,None,Congolese,None,1,1,1,0,0,None,None,0,None
+ZZB,Zanzibar,21124,0,6,641474.1639,21476594790,Tanzania,Zanzibar,None,None,None,None,WaZanzibari,None,2,4,1,0,1,Political Party,None,1,None
+DRF,Darfur,497980,0,2,3840867.431,5.36193E+11,Sudan,Darfur,None,None,None,None,Sudanese,None,4,4,1,1,1,Ongoing Military Conflict,None,1,None
+WCP,Western Cape,131657,0,7,2344266.938,1.89628E+11,South Africa,Western Cape,None,None,None,None,South African,None,4,4,1,0,1,UNPO Member,None,0,None
+VLK,Volkstaat,147538,0,7,2643263.022,2.01581E+11,South Africa,Volkstaat,None,None,None,None,South African,None,4,4,1,0,1,UNPO Member,None,0,None
+VWC,Volkerstaat-Western Cape,27760,0,7,913026.6027,38475573650,South Africa,Western Cape,Volkstaate,None,None,None,South African,None,4,4,1,0,1,UNPO Member,None,0,None
+SEC,Casamance,30933,0,8,1083987.286,32756383705,Senegal,Casamance,None,None,None,None,Senegalese,None,4,4,1,1,1,Ongoing Conflict,None,1,None
+BAC,Bas-Congo,54048,0,4,1379831.75,54875762901,Congo (DRC),Bas-Congo,None,None,None,None,Bas-Congolese,None,4,4,1,0,1,Political Party,None,0,None
+KAT,Katanga,363692,0,4,4053512.118,3.76565E+11,Congo (DRC),Katanga,None,None,None,None,Katangese,None,4,4,1,1,1,Ongoing Conflict,None,1,None
+KVU,Kivu,254370,0,4,2765528.261,2.56756E+11,Congo (DRC),United Republic of Kivu,Allied Democratic Forces Insurgency,Lord's Resistance Army Insurgency,None,None,Congolese,None,4,4,1,1,1,Ongoing War,None,1,None
+GNO,Bioko,9675,0,8,492771.4261,9769705976,Equatorial Guinea,Bioko,None,None,None,None,Equatoguinean,None,4,4,1,0,0,None,None,0,None
+AFR,Afar,95942,0,4,1764161.68,1.00986E+11,Afar,Afar,Ogaden,None,None,None,Afar,None,4,4,1,1,1,Ongoing War,None,1,None
+OGD,Ogaden,309904,0,4,3866983.094,3.16849E+11,Ethiopia,Ogaden,Afar,None,None,None,Somali,Somali Peoples,1,4,1,1,1,UNPO Member,None,1,None
+TIG,Tigray,48815,0,4,1547721.754,52064458633,Ethiopia,Tigray,None,None,None,None,Tigrayan,None,4,4,1,1,1,Ongoing War,None,1,None
+SID,Sidama,6716,0,4,441436.3563,6852970909,Ethiopia,Sidama,None,None,None,None,Sidama,None,4,4,1,0,0,None,None,0,None
+ETH,Ethiopia,1377,1,4,6115836.097,3.49038E+11,Ethiopia,None,None,None,None,None,Ethiopian,None,1,1,1,0,0,None,None,0,None
+FFD,French Flanders,2189,0,6,295102.7552,5532862832,France,French Flanders,Flanders,None,None,None,West Flemish,None,4,4,1,0,1,Flemish Movement,None,0,None
+REU,Reunion,8368,0,6,359112.814,9666385261,France,Reunion,None,None,None,None,Réunionese,None,4,4,1,0,0,None,None,0,None
+WTG,Western Togoland,29987,0,3,1743704.861,30862573588,Ghana,Western Togoland,None,None,None,None,Ghanaian,None,4,4,1,0,1,UNPO Member,None,0,None
+KNM,Mombasa,98261,0,1,1858244.298,99158831511,Kenya,Mombasa,None,None,None,None,Mombasanese,None,1,1,1,0,0,None,None,0,None
+MLI,Mali,429229,1,4,4131488.635,4.57202E+11,Mali,None,None,Jama'at Nasr al-Islam wal Muslimin,None,None,Malian,Insurgency in the Maghreb,1,1,1,1,1,Ongoing War,None,0,None
+ROD,Rodrigues,2891,0,7,207946.3179,3279353135,Mauritius,None,None,None,None,None,Rodriguan,None,2,4,1,0,0,None,None,1,None
+MRR,Rif,15428,0,5,870658.7786,23109959550,Morocco,Rif,None,None,None,None,Berber,Berberism,4,4,1,0,0,None,None,0,None
+NAC,Caprivi,41326,0,3,1681812.467,46062068723,Namibia,Caprivi,None,None,None,None,Namibian,None,4,4,1,0,0,None,None,0,None
+NER,Niger,496317,1,1,4719732.566,5.3479E+11,Niger,Boko Haram,None,Jama'at Nasr al-Islam wal Muslimin,None,None,Nigerian,Insurgency in the Maghreb,1,1,1,1,1,Ongoing War,None,0,None
+BIF,Biafra,67594,0,6,1443472.943,68613653822,Nigeria,Biafra,Niger Delta,None,None,None,Bifran,None,4,4,1,0,1,Ongoing Military Conflict,None,0,None
+NGB,Biafra,18901,0,6,752260.9048,19262857673,Nigeria,Biafra,None,None,None,None,Nigerian,None,4,4,1,0,0,None,None,0,None
+NGD,Niger Delta,38564,0,6,906133.5066,39276162792,Nigeria,Niger Delta,None,None,None,None,Nigerian,None,4,4,1,1,1,Ongoing War,None,0,None
+NGW,Western Africa,66945,0,6,1376214.934,68575350820,Nigeria,Oduduwa Autonomous Nation,None,None,None,None,Nigerian,None,4,4,1,0,0,UNPO Member,None,0,None
+NGO,Oduduwa Autonomous Nation,16690,0,6,795800.9182,17041793770,Nigeria,Oduduwa Autonomous Nation,Niger Delta,None,None,None,Nigerian,None,4,4,1,0,0,None,None,0,None
+RWB,Batwaland,5989,0,2,429620.8806,6037369296,Rwanda,Batwaland,None,None,None,None,Rwandan,None,4,4,1,0,0,None,None,0,None
+ASS,Assam,50673,0,5,3101264.895,63495907224,India,Assam,None,None,None,None,Asamese,Assam,2,4,1,1,1,Ongoing Military Conflict,None,0,None
+AKC,Aksai Chin,31842,0,2,1167496.543,47608974351,China (PRC),Jammu and Kashmir,Xizang (Greater Tibet),China (ROC),India,None,Aksai Chin People,Xizang (Greater Tibet),8,4,1,1,1,Ongoing Military Conflict,Jammu and Kashmir,1,China
+SCV,Chinese Shaksam Valley,15097,0,2,881829.3069,23133705871,China (PRC),Jammu and Kashmir,None,China (ROC),India,East Turkistan,Shaksam Valley People,East Turkistan,8,4,1,1,1,Multiple,Jammu and Kashmir,1,China
+CDK,Chinese Demchok,944,0,2,259163.3957,1344355976,China (PRC),Jammu and Kashmir,Xizang (Greater Tibet),China (ROC),India,None,Demchok People,Xizang (Greater Tibet),8,4,1,1,1,Ongoing Military Conflict,Jammu and Kashmir,1,China
+IDD,Indian Demchok,539,0,5,173643.5844,763119038.7,India,Jammu and Kashmir,China (PRC),Xizang (Greater Tibet),Pakistan,China (ROC),Demchok People,Tibet,8,4,1,1,1,Ongoing Military Conflict,Jammu and Kashmir,1,China
+PSV,Pakistani Shaksam Valley,4699,0,4,572655.3466,7189975383,Pakistan,Jammu and Kashmir,China (PRC),China (ROC),India,East Turkistan,Jammuite and Kashimiris,East Turkistan,8,4,1,1,1,Ongoing Military Conflict,Jammu and Kashmir,1,China
+KTP,Kamtapur,15094,0,5,1460018.616,18710384247,India,Kamtapur,None,None,None,None,Kamtapuri,Kamtapur,1,4,1,1,1,Militant Organization,None,0,None
+ASK,Assam Kamtapur,8297,0,5,760631.3382,10358561394,India,Assam,Kamtapur,None,None,None,Kamtapuri,Kamtapur,2,4,1,1,1,Ongoing Military Conflict,Autonomous District of India,1,Bodoland
+NPK,Nepalese Kamtapur,1610,0,1,241957.1436,2020844331,Nepal,Kamtapur,None,None,None,None,Kamtapuri,Kamtapur,1,4,1,0,0,Exiled Militant Organization,None,0,None
+PNJ,Punjab,49951,0,5,1479396.485,67976418157,India,Punjab,None,None,None,None,Punjabi,None,4,4,1,1,1,Multiple Militant,None,0,None
+MNP,Manipur,19526,0,5,1248408.96,23736635937,India,Manipur,None,None,None,None,Manipuris,Manipur,4,4,1,1,1,Ongoing Military Conflict,None,0,None
+NGL,Nagaland,16924,0,5,826383.7904,21059955420,India,Nagaland,None,None,None,None,Nagas,None,4,4,1,1,1,Ongoing Military Conflict,None,1,None
+ACH,Aceh,135727,0,1,1670659.151,1.37315E+11,Indonesia,Aceh,None,None,None,None,Acehnese,None,2,4,1,1,1,UNPO Member,None,1,None
+IDR,Riau,112950,0,1,1478467.672,1.13762E+11,Indonesia,Riau,None,None,None,None,Riau Malays,None,2,4,1,0,1,Gerakan Riau Merdeka,None,1,None
+IDS,South Maluku,553268,0,1,3373974.12,5.62515E+11,Indonesia,Republic of South Maluku,None,None,None,None,Indonesian,None,4,4,1,0,1,UNPO Member,None,0,None
+AWZ,Ahwazi,67999,0,6,1479152.525,93551111955,Iran,Arab Sepratists,None,None,None,None,Ahwazi Arab,None,4,4,1,1,1,Ongoing Conflict,None,0,None
+ROJ,Rojava,9836,0,8,897032.138,15186534597,Syria,Rojava,Turkey,Islamic State of Iraq and the Levant,None,None,Syrian,ISIL Insurgency,4,4,1,1,1,Ongoing War,None,1,None
+TKD,Turkish Kurdistan,164717,0,2,2919511.85,2.69207E+11,Turkey,Turkish Kurdistan,None,None,None,None,Kurdish,Kurdistan,4,4,1,1,1,Ongoing War,None,1,None
+IAZ,Iranian Azerbaijan,79524,0,6,1886880.624,1.27698E+11,Iran,Azerbaijan,None,None,None,None,Azerbaijani,Azerbaijan,4,4,1,0,1,UNPO Member,None,0,None
+IRB,Iranian Balochistan,185910,0,6,2609433.396,2.38891E+11,Iran,Balochistan,None,None,None,None,Iranian Baloch,Balochistan,4,4,1,1,1,Ongoing Military Conflict,None,0,None
+PKB,Pakistani Balochistan,358889,0,4,4208627.462,4.64424E+11,Pakistan,Balochistan,None,None,None,None,Pakistani Baloch,Balochistan,4,4,1,1,0,Ongoing Military Conflict,None,0,None
+AFB,Afghan Balochistan,57627,0,3,1605490.574,77285914254,Afghanistan,Balochistan,Taliban,None,None,None,Afghan Baloch,Balochistan,4,4,1,0,1,UNPO Member,None,0,None
+SHD,Sind,146395,0,4,2190723.979,1.81902E+11,Pakistan,Sindhudesh,None,None,None,None,Sindhi,None,4,4,1,1,1,Sindhudesh Revolutionary Army,None,0,None
+MYW,Sarawak,150855,0,6,2605319.504,1.52237E+11,Malaysia,Sarawak,None,None,None,None,Sarawak,None,4,4,1,0,1,Borneo Heritage Foundation,None,1,None
+MYB,Sabah,109075,0,6,1667699.745,1.10847E+11,Malaysia,Sabah,None,None,None,None,Sabah,None,4,4,1,0,1,Borneo Heritage Foundation,None,1,None
+MMS,Rakhine State,53559,0,8,1264328.231,60479962432,Myanmar,Rakhine State,None,None,None,None,Rakhine,None,4,4,1,0,0,None,None,0,None
+MMC,Chin State,35686,0,8,1264802.222,41821034165,Myanmar,Chin State,Zale'n-gam,None,None,None,Burmese,None,4,4,1,0,0,None,None,0,None
+KCH,Kachin State,89401,0,8,1856487.975,1.11338E+11,Myanmar,Kachin State,None,None,None,None,Katchin,None,4,4,1,1,1,Ongoing War,None,1,None
+MMY,Kayin State,29717,0,8,1455880.195,32743875321,Myanmar,Kawthoolei,None,None,None,None,Karen,None,4,4,1,1,1,Ongoing War,None,1,None
+MMK,Karenni,11760,0,8,524549.8936,13261599755,Myanmar,Karenni,None,None,None,None,Karenni,None,4,4,1,0,0,None,None,0,None
+RAH,Northern Rakhine State,4202,0,8,403427.5841,4843818566,Myanmar,Rahmanland,None,None,None,None,Rohinga,None,4,4,1,1,1,Ongoing War,None,1,None
+MMM,Mon State,16649,0,8,926122.7295,18179104029,Myanmar,Mon State,None,None,None,None,Mon,None,1,1,1,0,0,None,None,0,None
+PLZ,Pa Laung Self-Administered Zone,125271,0,8,2862438.082,1.45619E+11,Myanmar,Shan State,Kokang,None,None,None,Palaung,Myanmar Self-Administered Zones,2,4,1,0,1,Militant Organization,None,1,Kokang
+WSZ,Wa Self-Administered Zone,21693,0,8,1392962.498,25268055153,Myanmar,Wa State,None,None,None,None,Wa,Myanmar Self-Administered Zones,2,4,1,0,1,Militant Organization,None,1,None
+NPT,Kirat ,23889,0,1,912491.2286,30346481618,Nepal,Kirat,None,None,None,None,Kirati,None,4,4,1,0,0,None,None,0,None
+MAH,Madhesh,17605,0,1,1753459.546,22486572334,Nepal,Madhesh,None,None,None,None,Madheshi,None,4,4,1,0,1,UNPO Member,None,0,None
+SUU,Sulu,14040,0,7,748600.5476,14285901567,Philippines,Bansa Sug,Bangsamoro,Philippine Drug War,None,None,Maranao,Bangsamoro,2,4,1,1,1,UNPO Member,None,1,None
+BGK,Bangsang Kapampangan,8469,0,7,516998.1526,9160611215,Philippines,Philippine Drug War,None,None,None,None,Kapampangan,None,2,4,1,1,0,Ongoing Military Conflict,None,1,None
+CAR,Cordillera Administrative Region,18232,0,7,784788.2256,20125293380,Philippines,Philippine Drug War,Communist Rebels,None,None,None,Ilocano,None,2,4,1,1,0,Ongoing Military Conflict,None,1,None
+BGM,Bangsamoro,30864,0,7,2080303.022,31452572446,Philippines,Moro Conflict,Philippine Drug War,None,None,None,Maranao,Bangsamoro,4,4,1,1,1,Ongoing Military Conflict,None,1,None
+RUE,Sakha,1035209,0,1,31427377.22,1.41164E+13,Russia,Siberian Republic,None,None,None,None,Siberian,Autonomous Russian Republics,2,4,1,0,1,Siberian regionalism,None,1,None
+BRY,Buryatia,351014,0,1,6500678.585,9.97868E+11,Russia,Buryatia,Siberian Republic,Mongolia,None,None,Burat,Siberia,2,4,1,0,1,UNPO Member,Mongolia,1,Autonomous Russian Republics
+RUO,Koryakia,379919,0,1,8039786.952,1.58896E+12,Russia,Koryak Autonomous Okrug,None,None,None,None,Koryak,None,4,4,1,0,0,Seeking Autonomy,None,0,None
+RUP,Taymyrsky Dolgano-Nenetsky District,1490440,1,1,17084681.3,7.1768E+12,Russia,Siberian Republic,Taymyrsky Dolgano-Nenetsky District,None,None,None,Siberian,None,1,1,1,0,0,None,None,0,None
+TYV,Tuva,167283,0,1,3677006.671,4.32265E+11,Russia,Tuva,Siberian Republic,Mongolia,None,None,Tuvan,Autonomous Russian Republics,2,4,1,0,0,UNPO Member,Mongolia,1,None
+UOB,Ust-Orda Buryatia,22214,0,1,1884182.846,61994009418,Russia,Ust-Orda Buryatia,Siberian Republic,Mongolia,None,None,Buryat,Siberia,2,4,1,0,0,None,Mongolia,1,None
+ABO,Agin Buryatia,19408,0,1,1351612.114,48877890051,Russia,Agin Buryatia,Mongolia,None,None,None,Burat,Mongolia,2,4,1,0,0,UNPO Member,None,1,None
+RUM,Khanty-Mansi Autonomous Okrug,533992,0,1,9237735.632,2.39623E+12,Russia,Khanty-Mansi Autonomous Okrug,None,None,None,None,Russian,None,4,4,1,0,0,None,None,0,None
+LKE,Tamil Eelam,44635,0,7,1762644.482,45936781160,Sri Lanka,Tamil Eelam,None,None,None,None,Tamil,None,4,4,1,1,1,Tamil Tigers,None,0,None
+THP,Patani,26214,0,4,756581.8383,26764425586,Thailand,Pattani Darul Makrif,None,None,None,None,Thai,None,4,4,1,1,0,Ongoing Military Conflict,None,1,None
+KRK,Karakalpakstan,172238,0,5,3203014.82,3.26509E+11,Uzbekistan,Republic of Karakalpakstan,None,None,None,None,Karakalpakstani,None,2,4,1,0,1,Constitution of Uzbekistan,None,1,None
+VND,Mekong Delta,102841,0,3,1508266.636,1.0641E+11,Vietnam,Khmer Kom Nationalism,None,None,None,None,Vietnamese,None,4,4,1,0,1,UNPO Member,None,0,None
+MVM,Central Highlands,55188,0,3,1307547.994,58586700256,Vietnam,Central Highlands,None,None,None,None,Montagnard,None,2,4,1,0,1,UNPO Member,None,1,None
+HNY,Houthi North Yemen,113250,0,2,2205255.424,1.22446E+11,Yemen,Houthi North Yemen,Saudi Arabia,None,None,None,Houthi,None,4,4,1,1,1,Ongoing War,None,1,None
+RPN,Easter Island,2993,0,3,225352.8938,3793083764,Chile,Rapa Nui,None,None,None,None,Rapa Nui,None,4,4,1,0,1,Rapa Nui,None,1,None
+FRT,Overseas French Territories,48370,0,6,3094873.409,1.05315E+11,France,None,None,None,None,None,French,None,3,4,1,0,0,None,None,1,None
+WLF,Wallis and Futuna,419579,0,6,3835400.774,4.4318E+11,France,None,None,None,None,None,Wallisian and Futunan,France,3,4,1,0,0,None,None,1,None
+NCL,New Caledonia,129899,0,6,3838352.84,1.49107E+11,France,New Caledonia,None,None,None,None,New Caledonian,France,2,4,1,0,1,Political Parties,None,1,None
+FSC,Chuuk,8977,0,2,372655.2113,9186361367,Micronesia,Chuuk,None,None,None,None,Micronesian,None,4,4,1,0,0,None,None,0,None
+IDP,Papua,465220,0,1,3651604.832,4.71555E+11,Indonesia,None,None,None,None,None,Papuan,None,2,4,1,0,0,None,None,1,None
+IDW,West Papua,273748,0,1,2511091.739,2.76028E+11,Indonesia,Papua,West Papua,None,None,None,West Papuan,None,4,4,1,1,1,Ongoing Conflict,None,1,None
+NZL,New Munster Province,220176,0,7,3688350.105,4.27077E+11,New Zealand,New Munster Autonomous Province,South Island,None,None,None,Kiwi,None,1,1,1,0,0,None,None,0,None
+COK,Cook Islands,3253109,0,7,9993408.648,3.58007E+12,New Zealand,Cook Islands,None,None,None,None,Cook Islander,None,2,4,1,0,1,Political Party,None,1,None
+PND,New Ireland,138492,0,8,1839482.148,1.39864E+11,Papua New Guinea,New Ireland,None,None,None,None,Papua New Guinean,None,1,1,1,0,0,None,None,0,None
+PNB,Bougainville,60396,0,8,1394224.276,61280662231,Papua New Guinea,Bougainville,None,None,None,None,Bougainvillean,None,2,4,1,0,1,2019 Independence Referendum,None,1,None
+SBM,Malaita,21955,0,7,740447.0524,22650586826,Solomon Islands,Malaita,None,None,None,None,Solomon Islander,None,1,1,1,0,0,None,None,0,None
+VUV,Vemerana,19989,0,5,590664.0771,21556979743,Vanatu,Republic of Vemerana,None,None,None,None,Ni-Vanuatu,None,4,4,1,0,0,None,None,0,None
+SJM,Svalbard and Jan Mayen,150788,0,2,14864821.53,4.08025E+12,Norway,None,None,None,None,None,Svalbard people,None,2,4,1,0,0,None,None,1,None
+HLG,Heligoland,9,0,8,21774.85254,24877254.17,Germany,None,None,None,None,None,Sylters,None,2,4,1,0,0,None,None,1,None
+BSG,Büsingen,8,0,8,24074.42781,17009780.55,Germany,None,None,None,None,None,German,None,2,4,1,0,0,None,None,1,None
+CDI,Campione d'Italia,3,0,4,10306.09106,5535249.303,Italy,None,None,None,None,None, Campionesi,None,2,4,1,0,0,None,None,1,None
+SBS,Scarborough Shoal,227,0,7,61859.91973,244711148,China (PRC),Philippines,China (ROC),None,None,None,None,Nine-Dash Line,7,4,0,0,1,UNCLOS,None,0,China
+SPI,Spratly Islands,694494,0,8,3555024.029,7.1792E+11,Multiple,China (PRC),China (ROC),Malaysia,Philippines,Vietnam,None,Nine-Dash Line,7,4,0,0,1,UNCLOS,None,0,China
+HNS,Hans Island,2,0,2,33078.0908,82991116.04,None,Canada,Denmark,Greenland,None,None,None,None,7,4,0,0,1,UNCLOS,None,0,None
+ROT,Rotuma,2783,0,8,197492.9928,2937985079,Fiji,None,None,None,None,None,Rotuman,None,2,4,1,0,0,None,None,1,None
+BLM,Saint Barthélemy,1804,0,6,166243.4904,2002447345,France,None,None,None,None,None,Barthélemois,France,3,4,1,0,0,None,None,1,None
+MAF,Saint Martin,802,0,6,168345.8215,892521857.4,France,None,None,None,None,None, Saint-Martinois,France,3,4,1,0,0,None,None,1,None
+SPM,Saint Pierre and Miquelon,3607,0,6,362035.5143,7728770553,France,None,None,None,None,None,Saint-Pierrais,France,3,4,1,0,0,None,None,1,None
+ADJ,Adjara,3913,0,5,399402.935,7018385358,Georgia,None,None,None,None,None,Adjaran,None,2,4,1,0,0,None,None,1,None
+GOR,Gorkhaland,4587,0,5,480456.2429,5780263064,India,Kamtapur,None,None,None,None,Kamtapuri,Kamtapur,2,4,1,1,1,Militant Organization,None,1,Autonomous District of India
+ASB,Assamese Bodoland,6384,0,5,946091.0254,8027919422,India,Assam,None,None,None,None,Asamese,Assam,2,4,1,1,1,Ongoing Military Conflict,None,1,Autonomous District of India
+GRO,Garo Hills,8142,0,5,518987.6907,10049050104,India,None,None,None,None,None,Indian,Autonomous District of India,2,4,1,0,0,None,None,1,None
+JIH,Jaintia Hills,3842,0,5,347417.5689,4726692208,India,None,None,None,None,None,Indian,Autonomous District of India,2,4,1,0,0,None,None,1,None
+KSH,Khasi Hills,10463,0,5,651505.7402,12913143568,India,None,None,None,None,None,Indian,Autonomous District of India,2,4,1,0,0,None,None,1,None
+KBA,Karbi Anglong,7266,0,5,584066.3528,9056480239,India,Assam,None,None,None,None,Indian,Assam,2,4,1,1,1,Ongoing Military Conflict,None,1,Autonomous District of India
+DMH,Dima Hasao,4847,0,5,456409.5653,5963477776,India,Assam,None,None,None,None,Asamese,Assam,2,4,1,1,0,Ongoing Military Conflict,None,1,Autonomous District of India
+SDH,Sadar Hills,3526,0,5,678037.4138,4325252173,India,Manipur,None,None,None,None,Indian,Autonomous District of India,2,4,1,1,1,Ongoing Military Conflict,None,1,Manipur
+LAI,Lai,1913,0,5,384037.4865,2249304393,India,None,None,None,None,None,Indian,Autonomous District of India,2,4,1,0,0,None,None,1,None
+CAC,Chakma,888,0,5,252948.8336,1045327037,India,None,None,None,None,None,Indian,Autonomous District of India,2,4,1,0,0,None,None,1,None
+MRA,Mara,1458,0,5,240713.0355,1710461654,India,None,None,None,None,None,Indian,Autonomous District of India,2,4,1,0,0,None,None,1,None
+TRP,Tripura,10349,0,5,741319.9191,12406523071,India,None,None,None,None,None,Tripuris,Autonomous District of India,2,4,1,0,0,None,None,1,None
+IJK,Indian Jammu and Kashmir,42792,0,5,1279216.985,61795703607,India,Jammu and Kashmir,Pakistan,None,None,None,Jammuite and Kashimiris,India,8,4,1,1,1,Ongoing Military Conflict,None,1,Jammu and Kashmir
+KRG,Kargil,14048,0,5,892325.7353,20451130890,India,Jammu and Kashmir,Pakistan,None,None,None,Jammuite and Kashimiris,India,8,4,1,1,1,Ongoing Military Conflict,Autonomous District of India,1,Jammu and Kashmir
+NSI,North Sentinel Island,326,0,5,67643.40864,341455056.2,India,None,None,None,None,None,Sentinelese,India,2,4,1,1,0,Sentinelese Tribe,None,1,Autonomous District of India
+YOG,Yogyakarta,5486,0,1,355944.1325,5631055705,Indonesia,None,None,None,None,None,Yogyakartan,None,2,4,1,0,0,None,None,1,None
+TAA,Trentino-Alto Adige,6276,0,4,700059.1558,13068845674,Italy,North Italy,None,None,None,None,Trentino-Alto Adigan,Trentino-Alto Adige,2,4,1,0,1,Poltical Parties,None,1,North Italy
+MXC,Mexico City,1536,0,3,187356.5942,1732850918,Mexico,None,None,None,None,None,Capitalino,None,2,4,1,0,0,None,None,1,None
+MMR,Myanmar,122796,1,8,3324026.757,1.32117E+11,Myanmar,None,None,None,None,None,Burmese,None,1,1,1,0,0,None,None,0,None
+KKZ,Kokang Self-Administred Zone,1910,0,8,285621.3238,2292780870,Myanmar,Shan State,Kokang,None,None,None,Shan,Myanmar Self-Administered Zones,2,4,1,0,1,Militant Organization,None,1,Kokang
+SHS,Shan State,7294,0,8,444783.9744,8739200476,Myanmar,Shan State,Kokang,None,None,None,Shan,None,4,4,1,0,0,Militant Organization,None,0,None
+EMC,Emberá Comarca,3964,0,6,428504.9192,4073322174,Panama,None,None,None,None,None,Panamanian,Panamanian Indigenous Territory,4,4,1,0,0,None,None,1,None
+PAM,Madungandí,2314,0,6,273472.2,2389128400,Panama,None,None,None,None,None,Panamanian,Panamanian Indigenous Territory,2,4,1,0,0,None,None,1,None
+KDW,Kuna de Wargandí,968,0,6,145464.37,998103087,Panama,None,None,None,None,None,Panamanian,Panamanian Indigenous Territory,2,4,1,0,0,None,None,1,None
+GNG,Guna Yala,3635,0,6,608301.7421,3755384968,Panama,None,None,None,None,None,Panamanian,Panamanian Indigenous Territory,2,4,1,0,0,None,None,1,None
+NBC,Ngäbe-Buglé Comarca,8646,0,6,577769.0537,8907606322,Panama,None,None,None,None,None,Panamanian,Panamanian Indigenous Territory,2,4,1,0,0,None,None,1,None
+NTC,Naso Tjër Di Comarca,1320,0,6,172081.8687,1363732045,Panama,None,None,None,None,None,Panamanian,Panamanian Indigenous Territory,2,4,1,0,0,None,None,1,None
+MAD,Madeira,10042,0,4,553744.35,14241935645,Portugal,None,None,None,None,None,Madeirense,None,2,4,1,0,0,None,None,1,None
+AZS,Azores,32056,0,4,1660071.091,52112192840,Portugal,None,None,None,None,None,Açoriano,None,2,4,1,0,0,None,None,1,None
+TBG,Tobago,394,0,1,100812.5592,411670132.6,Trinidad and Tobago,None,None,None,None,None,Tobagonian,None,2,4,1,0,0,None,None,1,None
+KBR,Kuhistani Badakhshan Autonomous Region,63634,0,6,2074455.652,1.02956E+11,Takikistan,None,None,None,None,None,Tadzhik,None,2,4,1,0,0,None,None,1,None
+JJO,Jejudo,7618,0,5,414143.2311,10948324704,"Korea, South",North Korea,None,None,None,None,South Korean,Korea,2,4,1,0,1,Ongoing War,None,1,None
+PNT,Puntland,87302,0,7,1321841.029,90793247494,Somalia,None,None,None,None,None,Somali,Somali Peoples,2,4,1,0,0,None,None,1,None
+PCE,Principe,7178,0,2,340606.3088,7230918479,Sao Tome and Principe,None,None,None,None,None,Principen,None,2,4,1,0,0,None,None,1,None
+ABW,Aruba,2936,0,7,209369.4424,3100076884,Netherlands,None,None,None,None,None,Aruban,ABC Islands,2,4,1,0,0,None,None,1,None
+BES,Sint Eustatius and Saba,3356,0,7,220151.5057,3069973509,Netherlands,None,None,None,None,None,St. Eustatian and Sabans,BES Islands,2,4,1,0,0,None,None,0,None
+NIU,Niue,3134,0,7,214532.9509,3526495204,New Zealand,Cook Islands,None,None,None,None,Niuean,None,2,4,1,0,1,Political Party,None,1,None
+TKL,Tokelau,2569,0,7,185284.2542,2652468208,New Zealand,Cook Islands,None,None,None,None,Tokelauan,None,2,4,1,0,1,Political Party,None,1,None
+GGY,Guernsey,3815,0,5,376533.3045,9062949913,United Kingdom,None,None,None,None,None,Giernesi,None,2,4,1,0,0,None,None,1,None
+JEY,Jersey,2429,0,5,303453.7415,5666777263,United Kingdom,None,None,None,None,None,Islanders,None,2,4,1,0,0,None,None,1,None
+BMU,Bermuda,2981,0,5,237284.45,4185193846,United Kingdom,None,None,None,None,None,Bermudian,None,2,4,1,0,0,None,None,1,None
+CYM,Cayman Islands,7305,0,5,487624.2873,8265173159,United Kingdom,None,None,None,None,None,Caymanian,None,2,4,1,0,0,None,None,1,None
+AIA,Anguilla,4338,0,5,327900.6481,4844260067,United Kingdom,None,None,None,None,None,Anguillan,None,2,4,1,0,0,None,None,1,None
+VGB,British Virgin Islands,5219,0,5,332142.4439,5837978513,United Kingdom,None,None,None,None,None,British Virgin Islander,None,2,4,1,0,0,None,None,1,None
+MSR,Montserrat,2254,0,5,183789.7938,2470999192,United Kingdom,None,None,None,None,None,Montserratian,None,2,4,1,0,0,None,None,1,None
+PHM,Phnom Penh,702,0,5,144905.5466,735721913.8,Cambodia,None,None,None,None,None,Phnom Penher,None,2,4,1,0,0,None,None,1,None
+BNG,Bangui,68,0,3,50989.16454,68962693.86,Central African Republic,None,None,None,None,None,Central African,None,2,4,1,0,0,None,None,1,None
+BSU,Bissau,187,0,2,55540.75617,196305880.9,Guinea-Bissau,None,None,None,None,None,Bissauan,None,2,4,1,0,0,None,None,1,None
+JAK,Jakarta,680,0,1,106820.0699,692991627.5,Indonesia,None,None,None,None,None,Jakartans,None,2,4,1,0,0,None,None,1,None
+TSK,Tashkent,315,0,5,109870.09,558940415.1,Uzbekistan,None,None,None,None,None,Uzbekistani,None,2,4,1,0,0,None,None,1,None
+SJC,Sejong City,497,0,5,127703.9773,771585735.6,"Korea, South",North Korea,None,None,None,None,South Korean,Korea,2,4,1,0,1,Ongoing War,None,1,None
+PLN,Pailin,1082,0,5,148519.1272,1145793308,Cambodia,None,None,None,None,None,Cambodian,None,2,4,1,0,0,None,None,1,None
+KEP,Kep,168,0,5,65217.03353,174677691.6,Cambodia,None,None,None,None,None,Cambodian,None,2,4,1,0,0,None,None,1,None
+SKV,Sihanoukville,93,0,5,37278.06882,96996361.5,Cambodia,None,None,None,None,None,Cambodian,None,2,4,1,0,0,None,None,1,None
+BOT,Overseas British Territories,457339,0,5,827017.199,20785756617,United Kingdom,None,None,None,None,None,British,None,1,1,1,0,0,None,None,0,None
+ADG,Adygea,10543,0,1,1090244.221,20784415414,Russia,Circassia,Kuban,None,None,None,Circassian,Autonomous Russian Republics,2,4,1,0,1,Adyge Djegi,None,1,None
+ATI,Altai Republic,93268,0,1,2591001.825,2.32795E+11,Russia,Siberian Republic,None,None,None,None,Siberian,Autonomous Russian Republics,2,4,1,0,1,Siberian regionalism,None,1,None
+IGA,Ingushetia,3067,0,1,545793.1318,5771105727,Russia,Circassia,None,None,None,None,Circassian,Autonomous Russian Republics,2,4,1,0,1,Ingush People Council,None,1,None
+RUF,Kabardino-Balkaria,12390,0,1,863943.1894,23552205760,Russia,Circassia,Karachay-Balkaria,None,None,None,Circassian,Autonomous Russian Republics,2,4,1,0,1,Various nationalist organisations,None,1,None
+RUH,Khakassia,63381,0,1,2351138.765,1.77672E+11,Russia,Siberian Republic,None,None,None,None,Siberian,Autonomous Russian Republics,2,4,1,0,1,Siberian regionalism,None,1,None
+MRE,Mari El,23565,0,1,1394114.225,77520943728,Russia,Idel-Ural,Tatarstan,None,None,None,Tatarstani,Autonomous Russian Republics,2,4,1,0,1,Free Idel-Ural,None,1,None
+RUJ,Mordovia,26362,0,1,1772460.068,77436708715,Russia,Idel-Ural,None,None,None,None,Tatarstani,Autonomous Russian Republic,2,4,1,0,1,Free Idel-Ural,None,1,None
+NOA,North Ossetia-Alania,8071,0,1,949919.4291,15142648736,Russia,Circassia,None,None,None,None,Circassian,Autonomous Russian Republic,2,4,1,0,1,Circassian Nationalism,None,1,None
+RUI,Siberia,1648637,0,1,22196820.79,5.45959E+12,Russia,Siberian Republic,None,None,None,None,Siberian,None,4,3,0,1,1,Siberian Regionalism Movement,None,0,None
+JAO,Jewish Autonomous Oblast,37153,0,1,1389034.228,84651917435,Russia,None,None,None,None,None,Russian,Autonomous Russian Republics,2,4,1,0,0,None,None,1,None
+BAG,Tuareg Algeria,1172860,0,3,5401913.58,1.43112E+12,Algeria,None,Tamazgha,Jama'at Nasr al-Islam wal Muslimin,None,None,Berber,Berberism,4,4,1,1,1,Ongoing Conflict,None,0,Insurgency in the Maghreb
+LBT,Libyan Tamazgha,233089,0,7,2379412.884,2.93077E+11,Libya,Libyan Civil War,Tamazgha,Jama'at Nasr al-Islam wal Muslimin,None,None,Berber,Berberism,4,4,1,1,1,Ongoing War,None,1,Insurgency in the Maghreb
+CHT,Chittagong Hills Tracts,13164,0,6,954025.8985,15512043772,Bangladesh,None,None,None,None,None,Bangladeshi,None,4,4,1,1,1,UNPO Member,None,0,None
+DCA,District of Columbia,170,0,5,76373.71897,280624748.9,United States,None,None,None,None,None,Washingtonian,None,4,4,1,0,0,UNPO Member,None,0,None
+CDC,Kananga,323097,0,4,2953332.14,3.27926E+11,Congo (DRC),Kamwina Nsapu Rebellion,None,None,None,None,Congolese,None,4,4,1,1,1,Ongoing Military Conflict,None,1,None
+ITU,Ituri,157793,0,4,2138786.145,1.59257E+11,Congo (DRC),Ituri Insurgents,Allied Democratic Forces Insurgency,Lord's Resistance Army Insurgency,None,None,Congolese,None,4,4,1,1,1,Ongoing War,None,1,None
+CBD,Cabo Delgado,90251,0,8,1327308.371,95205423491,Mozambique,Islamic State,None,None,None,None,Mozambican,None,4,4,1,1,1,Ongoing War,None,1,None
+TCB,Mtwara,20665,0,6,804647.6432,21541361604,Tanzania,Islamic State,None,None,None,None,Tanzanian,None,4,4,1,1,0,Ongoing Military Conflict,None,0,None
+SNI,Sinai,67866,0,1,1315426.602,90229613670,Egypt,Sinai Insurgency,None,None,None,None,Egyptian,None,4,4,1,1,0,Ongoing Military Conflict,None,0,None
+BES,Bonaire,39133,0,7,232964.8461,3999535071,Netherlands,None,None,None,None,None,Dutch,ABC Islands,2,4,1,0,0,None,None,0,BES Islands
+SXM,Sint Maarteen,3356,0,7,102722.1818,645559111.3,Netherlands,None,None,None,None,None, Sint Maartener,None,1,1,1,0,0,None,None,0,None
+BVT,Bouvet Island,477054,0,2,292806.7883,6627143181,Norway,None,None,None,None,None,None,None,2,4,0,0,0,None,None,0,None
+PCN,Pitcairn Islands,457339,0,5,3089298.25,4.80507E+11,United Kingdom,None,None,None,None,None,Pitcairn Islanders,None,4,4,1,0,0,None,None,0,None
+SHN,"Saint Helena, Ascension and Tristan da Cunha",457339,0,5,859177.2397,14002118239,United Kingdom,None,None,None,None,None,British,None,2,4,1,0,0,None,None,0,None
+SGS,South Georgia and the South Sandwich Islands,457339,0,5,3767527.464,1.18257E+11,United Kingdom,None,None,None,None,None,South Georgian and South Sandwich Islander,None,2,4,1,0,0,None,None,0,None
+UMI,United States Minor Outlying Islands,6665692,0,5,6836145.679,9.43859E+11,United States,None,None,None,None,None,None,US Minor Outlying Islands,7,4,0,0,0,None,None,0,None

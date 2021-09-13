@@ -1,0 +1,23 @@
+﻿Field Name,Alias,Data Type,Domain,Unit,Primary Source,Secondary Source,Year,Reliability,Validity,Authoritative,Link,Discription
+Ctry_Abb,Abbreviation,Text,,,,,2021,,,No,https://unstats.un.org/unsd/tradekb/Knowledgebase/Country-Code,The UN ISO alpha-3 country codes for every instance it is assigned and made up by me in every case where it is not.
+Ctry_NmS,Name,Text,,,,,2021,,,Yes,,
+Demonym,Demonym,Text,,,https://en.wikipedia.org/wiki/List_of_adjectival_and_demonymic_forms_for_countries_and_nations,,2021,,,Yes,,
+administeredBy,Administered By,Text,,,,,2021,,,Yes,,
+contestedBy1,Primary Contestor,Text,,,https://metrocosm.com/disputed-territories-map.html,https://en.wikipedia.org/wiki/Lists_of_active_separatist_movements,2021,,,No,,
+contestedBy2,Secondary Contestor,Text,,,https://metrocosm.com/disputed-territories-map.html,https://en.wikipedia.org/wiki/Lists_of_active_separatist_movements,2021,,,No,,
+contestedBy3,Tertiary Contestor,Text,,,https://metrocosm.com/disputed-territories-map.html,https://en.wikipedia.org/wiki/Lists_of_active_separatist_movements,2021,,,No,,
+contestedBy4,Quatenary Contestor,Text,,,https://metrocosm.com/disputed-territories-map.html,https://en.wikipedia.org/wiki/Lists_of_active_separatist_movements,2021,,,No,,
+contestedBy5,Quinary Contestor,Text,,,https://metrocosm.com/disputed-territories-map.html,https://en.wikipedia.org/wiki/Lists_of_active_separatist_movements,2021,,,No,,
+contestedRegion1,Primary Dispute Region,Text,,,https://metrocosm.com/disputed-territories-map.html,https://en.wikipedia.org/wiki/Lists_of_active_separatist_movements,2021,,,No,,
+contestedRegion2,Overlapping Dispute Region,Text,,,https://metrocosm.com/disputed-territories-map.html,https://en.wikipedia.org/wiki/Lists_of_active_separatist_movements,2021,,,No,,
+contestedRegion3,Secondary Dispute Region,Text,,,https://metrocosm.com/disputed-territories-map.html,https://en.wikipedia.org/wiki/Lists_of_active_separatist_movements,2021,,,No,,
+territoryTyp,Territory Type,Text,ContestedTyp,,https://metrocosm.com/disputed-territories-map.html,https://en.wikipedia.org/wiki/Lists_of_active_separatist_movements,2021,,,Yes,,
+autonomous,Autonomous,Text,Boolean,,https://en.wikipedia.org/wiki/List_of_autonomous_areas_by_country,,2021,,,Yes,,
+viablyContested,Viably contested,Text,Boolean,,https://metrocosm.com/disputed-territories-map.html,https://en.wikipedia.org/wiki/Lists_of_active_separatist_movements,2021,,,Yes,,
+inhabited,Inhabited,Text,Boolean,,,,2021,,,Yes,,
+casulitiesContested,Casulities,Text,Boolean,,,,2021,,,Yes,,
+recognized,State Recognition,Text,Recognition,,,,2021,,,Yes,,
+nameContested,Contesting Authority,Text,,,,,2021,,,Yes,,
+Area_SQKM,Area,Long,,km^2,,,2019,No,,No,,Area compares the sum of all land and water areas delimited by international boundaries and/or coastlines.
+UN,United Nations,Text,MembTyp,,,,2021,,,Yes,https://www.cia.gov/the-world-factbook/references/international-organizations-and-groups/,"To maintain international peace and security and to promote cooperation involving economic, social, cultural, and humanitarian problems"
+ColorMap,Color Map,Short,,,,,,,,,,each country is assigned one of eight values in order to contrast
